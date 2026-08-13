@@ -1,0 +1,702 @@
+{
+  "items": [
+    {
+      "description": "Have something to add or change? Open a pull request or issue.\nThis is a community resource for informational use only - listing of a project/product does not imply endorsement.",
+      "items": [],
+      "title": "Community list of open-source Global Navigation Satellite System (GNSS) software and resources :satellite:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GPSTest (Google Play",
+          "description": ", F-Droid, Source code) - Supports dual-frequency GNSS for GPS, GLONASS, QZSS, BeiDou/COMPASS, Galileo, IRNSS, as well as various SBAS systems. Supports measuring accuracy using a ground truth location and file logging for NMEA, raw measurements, navigation messages, and location data. Logs are compatible with Google's GPS Measurement Tools suite to visualize data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T02:38:49Z",
+            "owner": "barbeau",
+            "repo": "gpstest",
+            "stars": 2363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GNSSLogger (Source code",
+          "description": ") - Log raw measurements for visualization in Google's GPS Measurement Tools suite. No longer maintained by Google. A proprietary Google fork of the project can be downloaded from Google Play here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-12T15:10:58Z",
+            "owner": "google",
+            "repo": "gps-measurement-tools",
+            "stars": 839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BasicAirData GPS Logger (Google Play",
+          "description": ", Source code) - A GPS logger for Android mobile devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-25T19:54:39Z",
+            "owner": "BasicAirData",
+            "repo": "GPSLogger",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GNSS Compare (Google Play",
+          "description": ", Documentation, Source code) - Supporting calculating positions from raw measurements for GPS and Galileo. Beta support for dual-frequency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-05-22T09:36:21Z",
+            "owner": "TheGalfins",
+            "repo": "GNSS_Compare",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-gnss-status-checker",
+          "description": "A React Native module to check GNSS status and satellite information on Android, including NavIC and dual-frequency GPS support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-01T06:55:41Z",
+            "owner": "vijayanandof",
+            "repo": "react-native-gnss-status-checker",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Android apps (open-source)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Overland-iOS (App Store",
+          "description": ", Source code) - An experiment at gathering data from an iPhone to test the Core Location API and its various settings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2025-10-23T14:38:15Z",
+            "owner": "aaronpk",
+            "repo": "Overland-iOS",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open GPX Tracker (App Store",
+          "description": ", Source code) - Open source GPX tracker app written in Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-02T20:07:15Z",
+            "owner": "merlos",
+            "repo": "iOS-Open-GPX-Tracker",
+            "stars": 714
+          }
+        }
+      ],
+      "title": "iOS apps (open-source)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RTKLIB (Download",
+          "description": ", Source code) - An Open Source Program Package for GNSS Positioning. Has a companion Android app RTKGPS+. Supports Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-28T10:17:00Z",
+            "owner": "tomojitakasu",
+            "repo": "RTKLIB",
+            "stars": 3108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GNSS-SDR (Download",
+          "description": ", Source code) - An open source GNSS software defined receiver. Supports Linux, Mac, and Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T09:27:08Z",
+            "owner": "gnss-sdr",
+            "repo": "gnss-sdr",
+            "stars": 2202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google's GPS Measurement Tools suite (Download",
+          "description": ", Source code) - Desktop companion app for GNSSLogger to visualize and analyze raw measurements. Supports Windows, Mac, and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-12T15:10:58Z",
+            "owner": "google",
+            "repo": "gps-measurement-tools",
+            "stars": 839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphGNSSLib (Source code",
+          "description": ") - An Open-source Package for GNSS Positioning and Real-time Kinematic Using Factor Graph Optimization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-12-29T04:13:20Z",
+            "owner": "weisongwen",
+            "repo": "GraphGNSSLib",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPSTk (Download",
+          "description": ", Source code) - C++ open source library and a suite of applications for GPS processing problems.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-05-28T19:07:02Z",
+            "owner": "SGL-UT",
+            "repo": "GPSTk",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ginan (Source code",
+          "description": ") - A processing package being developed by Geoscience Australia to provide real-time corrections to positioning data from the Global Navigation Satellite System (GNSS) constellations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-23T02:45:48Z",
+            "owner": "GeoscienceAustralia",
+            "repo": "ginan",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnssrefl (Source code",
+          "description": ") - Open source GNSS software in python that supports estimation of water levels, soil moisture, and snow depth from reflected GNSS signals. Supports linux, Mac, and Windows (via docker).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:59:42Z",
+            "owner": "kristinemlarson",
+            "repo": "gnssrefl",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FGI-GSRx",
+          "description": "(Source code) - An open-source software receiver in MATLAB used to develop, test and validate novel receiver processing algorithms for robust, resilient and precise Position, Navigation and Timing (PNT). Developed by the Finnish Geospatial Research Institute (FGI).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-07-10T14:04:12Z",
+            "owner": "nlsfi",
+            "repo": "FGI-GSRx",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ge-gnss-visibility",
+          "description": "Generates virtual fisheye zenith images from Google Earth at arbitrary locations and automatically determines GNSS visibility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2025-03-24T14:05:24Z",
+            "owner": "taroz",
+            "repo": "ge-gnss-visibility",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gtsam_gnss",
+          "description": "A set of custom factors and MATLAB wrappers that use GTSAM for GNSS processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-23T13:55:51Z",
+            "owner": "taroz",
+            "repo": "gtsam_gnss",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RINEX-Cli (Download",
+          "description": ") - An Open-source application to process RINEX data. It integrates several post processing algorithms, a Precise Position solver (SPP/PPP) and the formation of CGGTTS (special PVT) solutions for remote clock comparison. RINEX-Cli is the 100% open-source combination of teqc, Anubis and gLAB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-21T12:03:40Z",
+            "owner": "nav-solutions",
+            "repo": "rinex",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gsdc2023",
+          "description": "Code for the Google Smartphone Decimeter Challenge 2023 submission \"An Open-Source Factor Graph Optimization Package for GNSS and IMU Integration in Smartphones\" on Kaggle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2025-01-15T07:36:19Z",
+            "owner": "taroz",
+            "repo": "gsdc2023",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android GNSS Logger to RINEX converter (Source code",
+          "description": ") - A Python script that converts raw measurements in the CSV format supported by GnssLogger and GPSTest to the RINEX format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-24T09:13:26Z",
+            "owner": "rokubun",
+            "repo": "android_rinex",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MatRTKLIB",
+          "description": "A MATLAB wrapper for RTKLIB and various processes required for actual GNSS analysis and research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2025-03-08T11:44:50Z",
+            "owner": "taroz",
+            "repo": "MatRTKLIB",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goGPS project",
+          "description": "An open-source software package designed to improve the positioning accuracy of low-cost GPS devices by relative positioning. There are several versions, including goGPS_Java and goGPS_MATLAB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-03-13T09:15:55Z",
+            "owner": "goGPS-Project",
+            "repo": "goGPS_Java",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ge-drive-visualizer",
+          "description": "Visualizes the results of robot and vehicle position and pose estimation and lidar observations using Google Earth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2025-03-24T12:59:53Z",
+            "owner": "taroz",
+            "repo": "ge-drive-visualizer",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPSPACE",
+          "description": "Fortran script for Precise Point Positioning.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Fortran",
+            "last_commit": "2018-11-09T19:17:30Z",
+            "owner": "CGS-GIS",
+            "repo": "GPSPACE",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pygnsslab",
+          "description": "Modular, Python-based GNSS tools and libraries including RINEX reading & conversion tools, PPP and PPP-AR processing engines, and real-time GNSS data stream support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-01T22:03:01Z",
+            "owner": "PyGnssLab",
+            "repo": "pygnsslab",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prx (Source code",
+          "description": ") - Reads a RINEX 3.05 observation file and outputs a CSV file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:10:33Z",
+            "owner": "jtec",
+            "repo": "prx",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BUAA-RINEX-Convertor (Source code",
+          "description": ") - Converts .txt log files collected by GnssLogger to the RINEX format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-29T00:54:59Z",
+            "owner": "Jia-le-wang",
+            "repo": "BUAA-RINEX-Convertor",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinkerRTKWiFiNetwork (Source code",
+          "description": ") - Arduino sketches for the TinkerRTK base station and rover communicating over a WiFi network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-07T11:06:19Z",
+            "owner": "Tinkerbug-Robotics",
+            "repo": "TinkerRTKWiFiNetwork",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Desktop tools (open-source)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FusionCore",
+          "description": "A ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise estimation and outlier rejection for robust outdoor robot localization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:42:27Z",
+            "owner": "manankharwar",
+            "repo": "fusioncore",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoRust - RINEX",
+          "description": "RINEX files parsing and generation as a Rust library. Python bindings are under development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-21T12:03:40Z",
+            "owner": "nav-solutions",
+            "repo": "rinex",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoRust - SINEX",
+          "description": "SINEX files parsing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-21T12:03:40Z",
+            "owner": "nav-solutions",
+            "repo": "rinex",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoRust - SP3",
+          "description": "SP3 Precise Orbits by IGS - files parsing and processing in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-21T12:03:40Z",
+            "owner": "nav-solutions",
+            "repo": "rinex",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RTK - Rust",
+          "description": "Precise Positioning in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-17T14:00:33Z",
+            "owner": "nav-solutions",
+            "repo": "gnss-rtk",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32-GPS",
+          "description": "ESP32 GPS Controller, with support for USB Serial, Bluetooth, RTK Corrections, NTRIP Caster/Server/Client and ESP-Now forwarding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T14:44:44Z",
+            "owner": "mrichar1",
+            "repo": "esp32-gps",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CGGTTS",
+          "description": "support for CGGTTS (special PVT) solutions in Rust. Includes both a file parser and a sky tracker for CGGTTS track scheduling. CGGTTS is used in remote clock comparison, by mean of common satellite vehicle in sight.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-17T13:05:40Z",
+            "owner": "nav-solutions",
+            "repo": "cggtts",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "earth-gravitational-model",
+          "description": "A lightweight port of the GeoTools EarthGravitationalModel as a Java library to convert WGS84 (GNSS) altitude to EGM84 (height above mean sea level). Can be used on Android without requiring the entire GeoTools suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-10-06T11:40:02Z",
+            "owner": "barbeau",
+            "repo": "earth-gravitational-model",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ntripstreams",
+          "description": "Python interface to transfer GNSS and related data between GNSS instruments, Ntrip caster and users using the Ntrip protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-12T08:58:56Z",
+            "owner": "stenseng",
+            "repo": "ntripstreams",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GNSS - Rust",
+          "description": "GNSS definitions in Rust. Includes detailed SBAS support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-10T08:56:58Z",
+            "owner": "nav-solutions",
+            "repo": "gnss",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sidereon",
+          "description": "One engine for GNSS positioning (SPP/RTK/PPP), astrodynamics (SGP4, conjunction, covariance propagation), and the data formats (RINEX 2/3/4, RTCM 3 MSM, SP3, NTRIP, NMEA, RINEX QC), with native Rust, Python, C, WebAssembly, and Elixir interfaces over a single Rust core. Cross-validated against Vallado, IGS, IERS, teqc, RTKLIB, and PROJ; in-browser demo at https://sidereon.dev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T07:58:04Z",
+            "owner": "neilberkman",
+            "repo": "sidereon",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "giulioscattolin/google-gnss-logger",
+          "description": "A Java library that facilitates reading, writing and processing of sensor events and raw GNSS measurements encoded according to the Google's GNSS Logger application format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-10-24T13:56:57Z",
+            "owner": "gscatto",
+            "repo": "google-gnss-logger",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gps_pvt",
+          "description": "An Open Source Program Package for GNSS Positioning which is runnable and controllable via Ruby. RINEX ver.2/3, SP3, ANTEX, and u-blox UBX parsers are included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T12:04:02Z",
+            "owner": "fenrir-naru",
+            "repo": "gps_pvt",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kshana",
+          "description": "Open, reproducible PNT-resilience simulator in Rust (with Python and WebAssembly bindings). SGP4/SDP4 orbits, IAU 2006/2000A reference frames, GNSS availability/DOP, GNSS/INS fusion, ARAIM/RAIM integrity, SBAS protection levels, and Allan deviations; SGP4 validated against all 666 AIAA 2006-6753 vectors. Includes RINEX/SP3/CCSDS interop and an in-browser playground at https://kshana.dev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-01T02:37:03Z",
+            "owner": "ashfordeOU",
+            "repo": "kshana",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Libraries and interfaces"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GPSTest Device Database",
+          "description": "A list of device capabilities (e.g., supported GNSS constellations and carrier frequencies) crowd-sourced from users of the GPSTest Android app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T02:38:49Z",
+            "owner": "barbeau",
+            "repo": "gpstest",
+            "stars": 2363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UrbanNav",
+          "description": "An Open-Sourcing Localization Dataset Collected in Asian Urban Canyons, including Tokyo and Hong Kong.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-05T12:54:12Z",
+            "owner": "IPNL-POLYU",
+            "repo": "UrbanNavDataset",
+            "stars": 600
+          }
+        }
+      ],
+      "title": "Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Android - Raw GNSS Measurements",
+          "description": "by Google - Lists Android devices that support raw GNSS measurements as well as documentation for GNSSLogger and Google's GPS Measurement Tools suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-12T15:10:58Z",
+            "owner": "google",
+            "repo": "gps-measurement-tools",
+            "stars": 839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GNSS Analysis Tools from Google",
+          "description": "by Inside GNSS - Discussion of Google's GPS Measurement Tools suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-12T15:10:58Z",
+            "owner": "google",
+            "repo": "gps-measurement-tools",
+            "stars": 839
+          }
+        }
+      ],
+      "title": "Articles"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Peer-reviewed publications"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:04:39.263Z",
+    "original_repository": "barbeau/awesome-gnss",
+    "original_repository_sha": "6e987918cf075e29e4c115695b6718ac600435c4",
+    "enhanced_repository": "enhansome/enhansome-gnss",
+    "enhanced_repository_description": null,
+    "title": "awesome-gnss with stars"
+  }
+}
