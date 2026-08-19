@@ -453,7 +453,7 @@
             "last_commit": "2026-08-18T23:24:09Z",
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 313
+            "stars": 314
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-19T07:22:23Z",
             "owner": "neilberkman",
             "repo": "sidereon",
-            "stars": 13
+            "stars": 14
           }
         },
         {
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:31:51.830Z",
+    "last_updated": "2026-08-19T17:37:15.649Z",
     "original_repository": "barbeau/awesome-gnss",
     "original_repository_id": 214236544,
     "original_repository_sha": "6e987918cf075e29e4c115695b6718ac600435c4",
