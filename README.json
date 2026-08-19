@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Have something to add or change? Open a pull request or issue.\nThis is a community resource for informational use only - listing of a project/product does not imply endorsement.",
-      "items": [],
-      "title": "Community list of open-source Global Navigation Satellite System (GNSS) software and resources :satellite:"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5510421,
             "language": "Kotlin",
             "last_commit": "2026-08-17T20:13:43Z",
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2366
+            "stars": 2367
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67263891,
             "language": "Java",
             "last_commit": "2024-06-12T15:10:58Z",
             "owner": "google",
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25473634,
             "language": "Java",
             "last_commit": "2026-05-25T19:54:39Z",
             "owner": "BasicAirData",
             "repo": "GPSLogger",
-            "stars": 498
+            "stars": 499
           }
         },
         {
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136978154,
             "language": "Java",
             "last_commit": "2019-05-22T09:36:21Z",
             "owner": "TheGalfins",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 999396527,
             "language": "TypeScript",
             "last_commit": "2025-09-01T06:55:41Z",
             "owner": "vijayanandof",
@@ -82,7 +82,7 @@
       "title": "Android apps (open-source)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13785086,
             "language": "Objective-C",
             "last_commit": "2025-10-23T14:38:15Z",
             "owner": "aaronpk",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24654935,
             "language": "Swift",
             "last_commit": "2026-07-02T20:07:15Z",
             "owner": "merlos",
@@ -116,7 +118,7 @@
       "title": "iOS apps (open-source)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -125,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9743267,
             "language": "C",
             "last_commit": "2024-05-28T10:17:00Z",
             "owner": "tomojitakasu",
@@ -139,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18740094,
             "language": "C++",
             "last_commit": "2026-08-09T09:27:08Z",
             "owner": "gnss-sdr",
@@ -153,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67263891,
             "language": "Java",
             "last_commit": "2024-06-12T15:10:58Z",
             "owner": "google",
@@ -167,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 305877839,
             "language": "C",
             "last_commit": "2022-12-29T04:13:20Z",
             "owner": "weisongwen",
@@ -181,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 21739842,
             "language": "C++",
             "last_commit": "2022-05-28T19:07:02Z",
             "owner": "SGL-UT",
@@ -195,8 +202,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351286262,
             "language": "C++",
-            "last_commit": "2026-06-23T02:45:48Z",
+            "last_commit": "2026-08-19T03:14:41Z",
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
             "stars": 337
@@ -209,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290630876,
             "language": "Python",
             "last_commit": "2026-08-13T20:41:39Z",
             "owner": "kristinemlarson",
@@ -223,11 +232,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439244697,
             "language": "MATLAB",
             "last_commit": "2026-07-10T14:04:12Z",
             "owner": "nlsfi",
             "repo": "FGI-GSRx",
-            "stars": 188
+            "stars": 189
           }
         },
         {
@@ -237,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 827718191,
             "language": "MATLAB",
             "last_commit": "2025-03-24T14:05:24Z",
             "owner": "taroz",
@@ -251,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 895462026,
             "language": "C++",
             "last_commit": "2026-05-23T13:55:51Z",
             "owner": "taroz",
@@ -265,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439256131,
             "language": "Rust",
             "last_commit": "2026-07-21T12:03:40Z",
             "owner": "nav-solutions",
@@ -279,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 827121895,
             "language": "MATLAB",
             "last_commit": "2025-01-15T07:36:19Z",
             "owner": "taroz",
@@ -293,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97137585,
             "language": "Python",
             "last_commit": "2024-06-24T09:13:26Z",
             "owner": "rokubun",
@@ -307,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 802481211,
             "language": "MATLAB",
             "last_commit": "2025-03-08T11:44:50Z",
             "owner": "taroz",
@@ -321,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32495199,
             "language": "Java",
             "last_commit": "2025-03-13T09:15:55Z",
             "owner": "goGPS-Project",
@@ -335,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 932771742,
             "language": "MATLAB",
             "last_commit": "2025-03-24T12:59:53Z",
             "owner": "taroz",
@@ -349,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 156905330,
             "language": "Fortran",
             "last_commit": "2018-11-09T19:17:30Z",
             "owner": "CGS-GIS",
@@ -363,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 971037495,
             "language": "Python",
             "last_commit": "2025-05-01T22:03:01Z",
             "owner": "PyGnssLab",
@@ -377,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424319436,
             "language": "Python",
             "last_commit": "2026-08-13T13:10:33Z",
             "owner": "jtec",
@@ -391,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 645595956,
             "language": "C++",
             "last_commit": "2024-10-29T00:54:59Z",
             "owner": "Jia-le-wang",
@@ -405,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 669099131,
             "language": "C++",
             "last_commit": "2023-10-07T11:06:19Z",
             "owner": "Tinkerbug-Robotics",
@@ -416,7 +439,7 @@
       "title": "Desktop tools (open-source)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -425,11 +448,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1184507826,
             "language": "C++",
-            "last_commit": "2026-08-18T03:17:30Z",
+            "last_commit": "2026-08-18T23:24:09Z",
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 312
+            "stars": 313
           }
         },
         {
@@ -439,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439256131,
             "language": "Rust",
             "last_commit": "2026-07-21T12:03:40Z",
             "owner": "nav-solutions",
@@ -453,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439256131,
             "language": "Rust",
             "last_commit": "2026-07-21T12:03:40Z",
             "owner": "nav-solutions",
@@ -467,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439256131,
             "language": "Rust",
             "last_commit": "2026-07-21T12:03:40Z",
             "owner": "nav-solutions",
@@ -481,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 711832369,
             "language": "Rust",
             "last_commit": "2026-06-17T14:00:33Z",
             "owner": "nav-solutions",
@@ -495,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1046335735,
             "language": "Python",
             "last_commit": "2026-07-18T14:44:44Z",
             "owner": "mrichar1",
@@ -509,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439281303,
             "language": "Rust",
             "last_commit": "2026-06-17T13:05:40Z",
             "owner": "nav-solutions",
@@ -523,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72967771,
             "language": "Java",
             "last_commit": "2021-10-06T11:40:02Z",
             "owner": "barbeau",
@@ -537,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 357961607,
             "language": "Python",
             "last_commit": "2026-07-12T08:58:56Z",
             "owner": "stenseng",
@@ -551,8 +583,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1284766396,
             "language": "Rust",
-            "last_commit": "2026-08-18T07:09:56Z",
+            "last_commit": "2026-08-19T07:22:23Z",
             "owner": "neilberkman",
             "repo": "sidereon",
             "stars": 13
@@ -565,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 711843683,
             "language": "Rust",
             "last_commit": "2026-06-10T08:56:58Z",
             "owner": "nav-solutions",
@@ -579,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418867984,
             "language": "Java",
             "last_commit": "2021-10-24T13:56:57Z",
             "owner": "gscatto",
@@ -588,37 +623,39 @@
         },
         {
           "node_type": "item",
-          "title": "gps_pvt",
-          "description": "An Open Source Program Package for GNSS Positioning which is runnable and controllable via Ruby. RINEX ver.2/3, SP3, ANTEX, and u-blox UBX parsers are included.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-13T12:04:02Z",
-            "owner": "fenrir-naru",
-            "repo": "gps_pvt",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Kshana",
           "description": "Open, reproducible PNT-resilience simulator in Rust (with Python and WebAssembly bindings). SGP4/SDP4 orbits, IAU 2006/2000A reference frames, GNSS availability/DOP, GNSS/INS fusion, ARAIM/RAIM integrity, SBAS protection levels, and Allan deviations; SGP4 validated against all 666 AIAA 2006-6753 vectors. Includes RINEX/SP3/CCSDS interop and an in-browser playground at https://kshana.dev.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1256508460,
             "language": "Rust",
             "last_commit": "2026-08-01T02:37:03Z",
             "owner": "ashfordeOU",
             "repo": "kshana",
-            "stars": 5
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gps_pvt",
+          "description": "An Open Source Program Package for GNSS Positioning which is runnable and controllable via Ruby. RINEX ver.2/3, SP3, ANTEX, and u-blox UBX parsers are included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 439435081,
+            "language": "C++",
+            "last_commit": "2026-08-19T02:37:24Z",
+            "owner": "fenrir-naru",
+            "repo": "gps_pvt",
+            "stars": 6
           }
         }
       ],
       "title": "Libraries and interfaces"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -627,11 +664,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5510421,
             "language": "Kotlin",
             "last_commit": "2026-08-17T20:13:43Z",
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2366
+            "stars": 2367
           }
         },
         {
@@ -641,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370905429,
             "language": "Python",
             "last_commit": "2025-11-05T12:54:12Z",
             "owner": "IPNL-POLYU",
@@ -652,7 +691,7 @@
       "title": "Data"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -661,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67263891,
             "language": "Java",
             "last_commit": "2024-06-12T15:10:58Z",
             "owner": "google",
@@ -675,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67263891,
             "language": "Java",
             "last_commit": "2024-06-12T15:10:58Z",
             "owner": "google",
@@ -684,16 +725,12 @@
         }
       ],
       "title": "Articles"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Peer-reviewed publications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:44:07.344Z",
+    "last_updated": "2026-08-19T12:31:51.830Z",
     "original_repository": "barbeau/awesome-gnss",
+    "original_repository_id": 214236544,
     "original_repository_sha": "6e987918cf075e29e4c115695b6718ac600435c4",
     "enhanced_repository": "enhansome/enhansome-gnss",
     "enhanced_repository_description": null,
