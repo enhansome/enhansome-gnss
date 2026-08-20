@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T20:13:43Z",
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2367
+            "stars": 2368
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2025-10-23T14:38:15Z",
             "owner": "aaronpk",
             "repo": "Overland-iOS",
-            "stars": 723
+            "stars": 724
           }
         },
         {
@@ -144,10 +144,10 @@
             "archived": false,
             "id": 18740094,
             "language": "C++",
-            "last_commit": "2026-08-09T09:27:08Z",
+            "last_commit": "2026-08-19T22:52:31Z",
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2208
+            "stars": 2210
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-19T03:14:41Z",
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -219,7 +219,7 @@
             "archived": false,
             "id": 290630876,
             "language": "Python",
-            "last_commit": "2026-08-13T20:41:39Z",
+            "last_commit": "2026-08-20T17:27:37Z",
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
             "stars": 216
@@ -282,7 +282,7 @@
             "last_commit": "2026-07-21T12:03:40Z",
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -450,10 +450,10 @@
             "archived": false,
             "id": 1184507826,
             "language": "C++",
-            "last_commit": "2026-08-18T23:24:09Z",
+            "last_commit": "2026-08-19T17:37:47Z",
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 314
+            "stars": 315
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-07-21T12:03:40Z",
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-07-21T12:03:40Z",
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-21T12:03:40Z",
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -585,7 +585,7 @@
             "archived": false,
             "id": 1284766396,
             "language": "Rust",
-            "last_commit": "2026-08-19T07:22:23Z",
+            "last_commit": "2026-08-20T07:12:27Z",
             "owner": "neilberkman",
             "repo": "sidereon",
             "stars": 14
@@ -669,7 +669,7 @@
             "last_commit": "2026-08-17T20:13:43Z",
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2367
+            "stars": 2368
           }
         },
         {
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:37:15.649Z",
+    "last_updated": "2026-08-20T17:42:07.619Z",
     "original_repository": "barbeau/awesome-gnss",
     "original_repository_id": 214236544,
     "original_repository_sha": "6e987918cf075e29e4c115695b6718ac600435c4",
