@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T20:13:43Z",
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2368
+            "stars": 2369
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2025-10-23T14:38:15Z",
             "owner": "aaronpk",
             "repo": "Overland-iOS",
-            "stars": 724
+            "stars": 725
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2024-05-28T10:17:00Z",
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3111
+            "stars": 3110
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-19T22:52:31Z",
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2210
+            "stars": 2211
           }
         },
         {
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 351286262,
             "language": "C++",
-            "last_commit": "2026-08-19T03:14:41Z",
+            "last_commit": "2026-08-21T03:57:03Z",
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
             "stars": 338
@@ -450,7 +450,7 @@
             "archived": false,
             "id": 1184507826,
             "language": "C++",
-            "last_commit": "2026-08-19T17:37:47Z",
+            "last_commit": "2026-08-21T05:42:42Z",
             "owner": "manankharwar",
             "repo": "fusioncore",
             "stars": 315
@@ -585,7 +585,7 @@
             "archived": false,
             "id": 1284766396,
             "language": "Rust",
-            "last_commit": "2026-08-20T07:12:27Z",
+            "last_commit": "2026-08-21T07:13:49Z",
             "owner": "neilberkman",
             "repo": "sidereon",
             "stars": 14
@@ -669,7 +669,7 @@
             "last_commit": "2026-08-17T20:13:43Z",
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2368
+            "stars": 2369
           }
         },
         {
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:42:07.619Z",
+    "last_updated": "2026-08-21T17:40:55.942Z",
     "original_repository": "barbeau/awesome-gnss",
     "original_repository_id": 214236544,
     "original_repository_sha": "6e987918cf075e29e4c115695b6718ac600435c4",
