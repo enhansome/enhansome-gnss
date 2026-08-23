@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T20:13:43Z",
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2372
+            "stars": 2373
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-07-02T20:07:15Z",
             "owner": "merlos",
             "repo": "iOS-Open-GPX-Tracker",
-            "stars": 716
+            "stars": 717
           }
         }
       ],
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-21T23:25:02Z",
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
-            "stars": 338
+            "stars": 339
           }
         },
         {
@@ -458,6 +458,21 @@
         },
         {
           "node_type": "item",
+          "title": "libgnss++",
+          "description": "A modern C++20 GNSS toolkit for SPP, RTK, and PPP positioning, with Python bindings, Docker, and ROS 2 support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1050336885,
+            "language": "C++",
+            "last_commit": "2026-08-22T10:30:54Z",
+            "owner": "rsasaki0109",
+            "repo": "gnssplusplus-library",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
           "title": "GeoRust - RINEX",
           "description": "RINEX files parsing and generation as a Rust library. Python bindings are under development.",
           "children": [],
@@ -514,6 +529,21 @@
             "owner": "nav-solutions",
             "repo": "gnss-rtk",
             "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnss_gpu",
+          "description": "GPU-accelerated GNSS positioning for dense urban areas, using CUDA particle filters with NLOS rejection based on ray tracing against 3D city models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1196621813,
+            "language": "Python",
+            "last_commit": "2026-08-02T04:01:47Z",
+            "owner": "rsasaki0109",
+            "repo": "gnss_gpu",
+            "stars": 66
           }
         },
         {
@@ -585,10 +615,10 @@
             "archived": false,
             "id": 1284766396,
             "language": "Rust",
-            "last_commit": "2026-08-22T16:56:40Z",
+            "last_commit": "2026-08-23T07:07:24Z",
             "owner": "neilberkman",
             "repo": "sidereon",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -604,6 +634,21 @@
             "owner": "nav-solutions",
             "repo": "gnss",
             "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tightly-coupled-gnss-imu-fgo",
+          "description": "Tightly-coupled GNSS RTK + IMU on GTSAM factor graphs: double-differenced code/carrier with LAMBDA ambiguity resolution and fix-and-hold, IMU preintegration, and between-satellite single-differenced Doppler. Results are reproducible end-to-end on the open PPC-Dataset urban Tokyo drives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1234333775,
+            "language": "Python",
+            "last_commit": "2026-08-23T17:01:19Z",
+            "owner": "inuex35",
+            "repo": "tightly-coupled-gnss-imu-fgo",
+            "stars": 10
           }
         },
         {
@@ -669,7 +714,7 @@
             "last_commit": "2026-08-17T20:13:43Z",
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2372
+            "stars": 2373
           }
         },
         {
@@ -728,10 +773,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:33:39.787Z",
+    "last_updated": "2026-08-23T17:32:02.457Z",
     "original_repository": "barbeau/awesome-gnss",
     "original_repository_id": 214236544,
-    "original_repository_sha": "6e987918cf075e29e4c115695b6718ac600435c4",
+    "original_repository_sha": "27aed5bfbfe778e5c8c9b52110abe8977cf40a39",
     "enhanced_repository": "enhansome/enhansome-gnss",
     "enhanced_repository_description": null,
     "title": "awesome-gnss with stars"
