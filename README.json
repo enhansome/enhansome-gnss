@@ -132,7 +132,7 @@
             "last_commit": "2024-05-28T10:17:00Z",
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3114
+            "stars": 3115
           }
         },
         {
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 18740094,
             "language": "C++",
-            "last_commit": "2026-08-24T07:50:28Z",
+            "last_commit": "2026-08-24T16:32:01Z",
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
             "stars": 2214
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-24T01:51:22Z",
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 187
+            "stars": 188
           }
         },
         {
@@ -615,7 +615,7 @@
             "archived": false,
             "id": 1284766396,
             "language": "Rust",
-            "last_commit": "2026-08-24T07:33:54Z",
+            "last_commit": "2026-08-24T17:41:18Z",
             "owner": "neilberkman",
             "repo": "sidereon",
             "stars": 15
@@ -645,7 +645,7 @@
             "archived": false,
             "id": 1234333775,
             "language": "Python",
-            "last_commit": "2026-08-24T12:44:33Z",
+            "last_commit": "2026-08-24T15:50:51Z",
             "owner": "inuex35",
             "repo": "tightly-coupled-gnss-imu-fgo",
             "stars": 10
@@ -690,7 +690,7 @@
             "archived": false,
             "id": 439435081,
             "language": "C++",
-            "last_commit": "2026-08-22T08:19:02Z",
+            "last_commit": "2026-08-24T15:56:35Z",
             "owner": "fenrir-naru",
             "repo": "gps_pvt",
             "stars": 6
@@ -773,7 +773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:17.257Z",
+    "last_updated": "2026-08-24T17:43:05.461Z",
     "original_repository": "barbeau/awesome-gnss",
     "original_repository_id": 214236544,
     "original_repository_sha": "27aed5bfbfe778e5c8c9b52110abe8977cf40a39",
