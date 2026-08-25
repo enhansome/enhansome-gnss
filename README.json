@@ -111,7 +111,7 @@
             "last_commit": "2026-07-02T20:07:15Z",
             "owner": "merlos",
             "repo": "iOS-Open-GPX-Tracker",
-            "stars": 717
+            "stars": 718
           }
         }
       ],
@@ -465,7 +465,7 @@
             "archived": false,
             "id": 1050336885,
             "language": "C++",
-            "last_commit": "2026-08-24T01:51:22Z",
+            "last_commit": "2026-08-25T04:13:08Z",
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
             "stars": 188
@@ -615,7 +615,7 @@
             "archived": false,
             "id": 1284766396,
             "language": "Rust",
-            "last_commit": "2026-08-24T17:41:18Z",
+            "last_commit": "2026-08-24T17:59:29Z",
             "owner": "neilberkman",
             "repo": "sidereon",
             "stars": 15
@@ -690,7 +690,7 @@
             "archived": false,
             "id": 439435081,
             "language": "C++",
-            "last_commit": "2026-08-24T15:56:35Z",
+            "last_commit": "2026-08-25T00:22:26Z",
             "owner": "fenrir-naru",
             "repo": "gps_pvt",
             "stars": 6
@@ -773,7 +773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:43:05.461Z",
+    "last_updated": "2026-08-25T06:16:07.309Z",
     "original_repository": "barbeau/awesome-gnss",
     "original_repository_id": 214236544,
     "original_repository_sha": "27aed5bfbfe778e5c8c9b52110abe8977cf40a39",

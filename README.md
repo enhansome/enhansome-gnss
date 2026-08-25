@@ -2,7 +2,7 @@
 
 ##### Community list of open-source Global Navigation Satellite System (GNSS) software and resources :satellite:
 
-Have something to add or change? Open a [pull request](https://github.com/barbeau/awesome-gnss/pulls) ⭐ 595 | 🐛 7 | 📅 2026-08-23 or [issue](https://github.com/barbeau/awesome-gnss/issues) ⭐ 595 | 🐛 7 | 📅 2026-08-23.
+Have something to add or change? Open a [pull request](https://github.com/barbeau/awesome-gnss/pulls) ⭐ 596 | 🐛 7 | 📅 2026-08-23 or [issue](https://github.com/barbeau/awesome-gnss/issues) ⭐ 596 | 🐛 7 | 📅 2026-08-23.
 
 *This is a community resource for informational use only - listing of a project/product does not imply endorsement.*
 
@@ -37,7 +37,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 ### iOS apps (open-source)
 
 * **Overland-iOS** ([App Store](https://apps.apple.com/us/app/overland-gps-tracker/id1292426766), [Source code](https://github.com/aaronpk/Overland-iOS) ⭐ 725 | 🐛 39 | 🌐 Objective-C | 📅 2025-10-23) - An experiment at gathering data from an iPhone to test the Core Location API and its various settings.
-* **Open GPX Tracker** ([App Store](https://apps.apple.com/app/open-gpx-tracker/id984503772), [Source code](https://github.com/merlos/iOS-Open-GPX-Tracker) ⭐ 717 | 🐛 78 | 🌐 Swift | 📅 2026-07-02) -  Open source GPX tracker app written in Swift.
+* **Open GPX Tracker** ([App Store](https://apps.apple.com/app/open-gpx-tracker/id984503772), [Source code](https://github.com/merlos/iOS-Open-GPX-Tracker) ⭐ 718 | 🐛 78 | 🌐 Swift | 📅 2026-07-02) -  Open source GPX tracker app written in Swift.
 
 ### Desktop tools (open-source)
 
@@ -50,7 +50,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 * **gnssrefl** ([Source code](https://github.com/kristinemlarson/gnssrefl) ⭐ 216 | 🐛 4 | 🌐 Python | 📅 2026-08-20) - Open source GNSS software in python that supports estimation of water levels, soil moisture, and snow depth from reflected GNSS signals. Supports linux, Mac, and Windows (via docker).
 * [FGI-GSRx](https://www.maanmittauslaitos.fi/en/fgi-gsrx-os) ([Source code](https://github.com/nlsfi/FGI-GSRx) ⭐ 189 | 🐛 12 | 🌐 MATLAB | 📅 2026-07-10) - An open-source software receiver in MATLAB used to develop, test and validate novel receiver processing algorithms for robust, resilient and precise Position, Navigation and Timing (PNT). Developed by the Finnish Geospatial Research Institute (FGI).
 * [ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility) ⭐ 137 | 🐛 2 | 🌐 MATLAB | 📅 2025-03-24 - Generates virtual fisheye zenith images from Google Earth at arbitrary locations and automatically determines GNSS visibility
-* [gtsam\_gnss](https://github.com/taroz/gtsam_gnss) ⭐ 134 | 🐛 3 | 🌐 C++ | 📅 2026-05-23 - A set of custom factors and MATLAB wrappers that use [GTSAM](https://github.com/borglab/gtsam) ⭐ 3,650 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-08-24 for GNSS processing.
+* [gtsam\_gnss](https://github.com/taroz/gtsam_gnss) ⭐ 134 | 🐛 3 | 🌐 C++ | 📅 2026-05-23 - A set of custom factors and MATLAB wrappers that use [GTSAM](https://github.com/borglab/gtsam) ⭐ 3,652 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-08-25 for GNSS processing.
 * **RINEX-Cli** ([Download](https://github.com/georust/rinex/releases) ⭐ 125 | 🐛 27 | 🌐 Rust | 📅 2026-07-21) - An Open-source application to process RINEX data. It integrates several post processing algorithms,
   a Precise Position solver (SPP/PPP) and the formation of CGGTTS (special PVT) solutions for remote clock comparison. **RINEX-Cli** is the 100% open-source combination of **teqc**, **Anubis** and **gLAB**.
 * [gsdc2023](https://github.com/taroz/gsdc2023) ⭐ 112 | 🐛 3 | 🌐 MATLAB | 📅 2025-01-15 - Code for the [Google Smartphone Decimeter Challenge 2023](https://www.kaggle.com/competitions/smartphone-decimeter-2023) submission "An Open-Source Factor Graph Optimization Package for GNSS and IMU Integration in Smartphones" on Kaggle.
@@ -84,7 +84,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 ### Libraries and interfaces
 
 * [FusionCore](https://github.com/manankharwar/fusioncore) ⭐ 316 | 🐛 31 | 🌐 C++ | 📅 2026-08-21 - A ROS 2 UKF fusing GPS, IMU, and wheel odometry with adaptive noise estimation and outlier rejection for robust outdoor robot localization.
-* [libgnss++](https://github.com/rsasaki0109/gnssplusplus-library) ⭐ 188 | 🐛 1 | 🌐 C++ | 📅 2026-08-24 - A modern C++20 GNSS toolkit for SPP, RTK, and PPP positioning, with Python bindings, Docker, and ROS 2 support.
+* [libgnss++](https://github.com/rsasaki0109/gnssplusplus-library) ⭐ 188 | 🐛 1 | 🌐 C++ | 📅 2026-08-25 - A modern C++20 GNSS toolkit for SPP, RTK, and PPP positioning, with Python bindings, Docker, and ROS 2 support.
 * [GeoRust - RINEX](https://github.com/georust/rinex) ⭐ 125 | 🐛 27 | 🌐 Rust | 📅 2026-07-21 - RINEX files parsing and generation as a Rust library. Python bindings are under development.
 * [GeoRust - SINEX](https://github.com/georust/rinex/tree/main/sinex) ⭐ 125 | 🐛 27 | 🌐 Rust | 📅 2026-07-21 - SINEX files parsing.
 * [GeoRust - SP3](https://github.com/georust/rinex/tree/main/sp3) ⭐ 125 | 🐛 27 | 🌐 Rust | 📅 2026-07-21 - SP3 Precise Orbits by IGS - files parsing and processing in Rust.
@@ -95,12 +95,12 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
   CGGTTS is used in remote clock comparison, by mean of common satellite vehicle in sight.
 * [earth-gravitational-model](https://github.com/barbeau/earth-gravitational-model) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2021-10-06 - A lightweight port of the GeoTools [EarthGravitationalModel](http://docs.geotools.org/latest/javadocs/org/geotools/referencing/operation/transform/EarthGravitationalModel.html) as a Java library to convert WGS84 (GNSS) altitude to EGM84 (height above mean sea level). Can be used on Android without requiring the entire GeoTools suite.
 * [ntripstreams](https://github.com/stenseng/ntripstreams) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-07-12 - Python interface to transfer GNSS and related data between GNSS instruments, Ntrip caster and users using the [Ntrip protocol](https://gssc.esa.int/wp-content/uploads/2018/07/NtripDocumentation.pdf).
-* [sidereon](https://github.com/neilberkman/sidereon) ⭐ 15 | 🐛 1 | 🌐 Rust | 📅 2026-08-24 - One engine for GNSS positioning (SPP/RTK/PPP), astrodynamics (SGP4, conjunction, covariance propagation), and the data formats (RINEX 2/3/4, RTCM 3 MSM, SP3, NTRIP, NMEA, RINEX QC), with native Rust, Python, C, WebAssembly, and Elixir interfaces over a single Rust core. Cross-validated against Vallado, IGS, IERS, teqc, RTKLIB, and PROJ; in-browser demo at <https://sidereon.dev>.
+* [sidereon](https://github.com/neilberkman/sidereon) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2026-08-24 - One engine for GNSS positioning (SPP/RTK/PPP), astrodynamics (SGP4, conjunction, covariance propagation), and the data formats (RINEX 2/3/4, RTCM 3 MSM, SP3, NTRIP, NMEA, RINEX QC), with native Rust, Python, C, WebAssembly, and Elixir interfaces over a single Rust core. Cross-validated against Vallado, IGS, IERS, teqc, RTKLIB, and PROJ; in-browser demo at <https://sidereon.dev>.
 * [GNSS - Rust](https://github.com/rtk-rs/gnss-rs) ⭐ 11 | 🐛 2 | 🌐 Rust | 📅 2026-06-10 - GNSS definitions in Rust. Includes detailed SBAS support.
 * [tightly-coupled-gnss-imu-fgo](https://github.com/inuex35/tightly-coupled-gnss-imu-fgo) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Tightly-coupled GNSS RTK + IMU on GTSAM factor graphs: double-differenced code/carrier with LAMBDA ambiguity resolution and fix-and-hold, IMU preintegration, and between-satellite single-differenced Doppler. Results are reproducible end-to-end on the open PPC-Dataset urban Tokyo drives.
 * [giulioscattolin/google-gnss-logger](https://github.com/giulioscattolin/google-gnss-logger) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2021-10-24 - A Java library that facilitates reading, writing and processing of sensor events and raw GNSS measurements encoded according to the Google's [GNSS Logger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) application format.
 * [Kshana](https://github.com/AshfordeOU/kshana) ⭐ 6 | 🐛 2 | 🌐 Rust | 📅 2026-08-01 - Open, reproducible PNT-resilience simulator in Rust (with Python and WebAssembly bindings). SGP4/SDP4 orbits, IAU 2006/2000A reference frames, GNSS availability/DOP, GNSS/INS fusion, ARAIM/RAIM integrity, SBAS protection levels, and Allan deviations; SGP4 validated against all 666 AIAA 2006-6753 vectors. Includes RINEX/SP3/CCSDS interop and an in-browser playground at <https://kshana.dev>.
-* [gps\_pvt](https://github.com/fenrir-naru/gps_pvt) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2026-08-24 - An Open Source Program Package for GNSS Positioning which is runnable and controllable via [Ruby](https://www.ruby-lang.org/). RINEX ver.2/3, SP3, ANTEX, and u-blox UBX parsers are included.
+* [gps\_pvt](https://github.com/fenrir-naru/gps_pvt) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2026-08-25 - An Open Source Program Package for GNSS Positioning which is runnable and controllable via [Ruby](https://www.ruby-lang.org/). RINEX ver.2/3, SP3, ANTEX, and u-blox UBX parsers are included.
 
 ### Data
 
@@ -204,4 +204,4 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
