@@ -144,10 +144,10 @@
             "archived": false,
             "id": 18740094,
             "language": "C++",
-            "last_commit": "2026-08-24T16:32:01Z",
+            "last_commit": "2026-08-25T09:49:40Z",
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2214
+            "stars": 2216
           }
         },
         {
@@ -399,7 +399,7 @@
             "archived": false,
             "id": 424319436,
             "language": "Python",
-            "last_commit": "2026-08-24T05:39:55Z",
+            "last_commit": "2026-08-25T08:57:54Z",
             "owner": "jtec",
             "repo": "prx",
             "stars": 23
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-25T04:13:08Z",
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 188
+            "stars": 187
           }
         },
         {
@@ -615,10 +615,10 @@
             "archived": false,
             "id": 1284766396,
             "language": "Rust",
-            "last_commit": "2026-08-24T17:59:29Z",
+            "last_commit": "2026-08-25T07:15:02Z",
             "owner": "neilberkman",
             "repo": "sidereon",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -773,7 +773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:07.309Z",
+    "last_updated": "2026-08-25T17:42:46.136Z",
     "original_repository": "barbeau/awesome-gnss",
     "original_repository_id": 214236544,
     "original_repository_sha": "27aed5bfbfe778e5c8c9b52110abe8977cf40a39",
