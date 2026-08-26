@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T20:13:43Z",
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2374
+            "stars": 2375
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 24654935,
             "language": "Swift",
-            "last_commit": "2026-07-02T20:07:15Z",
+            "last_commit": "2026-08-25T17:56:31Z",
             "owner": "merlos",
             "repo": "iOS-Open-GPX-Tracker",
             "stars": 718
@@ -132,7 +132,7 @@
             "last_commit": "2024-05-28T10:17:00Z",
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3115
+            "stars": 3117
           }
         },
         {
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 18740094,
             "language": "C++",
-            "last_commit": "2026-08-25T09:49:40Z",
+            "last_commit": "2026-08-26T06:28:42Z",
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
             "stars": 2216
@@ -615,10 +615,25 @@
             "archived": false,
             "id": 1284766396,
             "language": "Rust",
-            "last_commit": "2026-08-25T07:15:02Z",
+            "last_commit": "2026-08-26T15:18:14Z",
             "owner": "neilberkman",
             "repo": "sidereon",
             "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tightly-coupled-gnss-imu-fgo",
+          "description": "Tightly-coupled GNSS RTK + IMU on GTSAM factor graphs: double-differenced code/carrier with LAMBDA ambiguity resolution and fix-and-hold, IMU preintegration, and between-satellite single-differenced Doppler. Results are reproducible end-to-end on the open PPC-Dataset urban Tokyo drives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1234333775,
+            "language": "Python",
+            "last_commit": "2026-08-24T15:50:51Z",
+            "owner": "inuex35",
+            "repo": "tightly-coupled-gnss-imu-fgo",
+            "stars": 12
           }
         },
         {
@@ -634,21 +649,6 @@
             "owner": "nav-solutions",
             "repo": "gnss",
             "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tightly-coupled-gnss-imu-fgo",
-          "description": "Tightly-coupled GNSS RTK + IMU on GTSAM factor graphs: double-differenced code/carrier with LAMBDA ambiguity resolution and fix-and-hold, IMU preintegration, and between-satellite single-differenced Doppler. Results are reproducible end-to-end on the open PPC-Dataset urban Tokyo drives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1234333775,
-            "language": "Python",
-            "last_commit": "2026-08-24T15:50:51Z",
-            "owner": "inuex35",
-            "repo": "tightly-coupled-gnss-imu-fgo",
-            "stars": 10
           }
         },
         {
@@ -714,7 +714,7 @@
             "last_commit": "2026-08-17T20:13:43Z",
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2374
+            "stars": 2375
           }
         },
         {
@@ -773,7 +773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:42:46.136Z",
+    "last_updated": "2026-08-26T19:17:17.817Z",
     "original_repository": "barbeau/awesome-gnss",
     "original_repository_id": 214236544,
     "original_repository_sha": "27aed5bfbfe778e5c8c9b52110abe8977cf40a39",
