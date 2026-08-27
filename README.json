@@ -12,7 +12,7 @@
             "archived": false,
             "id": 5510421,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T20:13:43Z",
+            "last_commit": "2026-08-27T10:26:10Z",
             "owner": "barbeau",
             "repo": "gpstest",
             "stars": 2375
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 18740094,
             "language": "C++",
-            "last_commit": "2026-08-26T06:28:42Z",
+            "last_commit": "2026-08-27T09:58:51Z",
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
             "stars": 2216
@@ -297,7 +297,7 @@
             "last_commit": "2025-01-15T07:36:19Z",
             "owner": "taroz",
             "repo": "gsdc2023",
-            "stars": 112
+            "stars": 113
           }
         },
         {
@@ -711,7 +711,7 @@
             "archived": false,
             "id": 5510421,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T20:13:43Z",
+            "last_commit": "2026-08-27T10:26:10Z",
             "owner": "barbeau",
             "repo": "gpstest",
             "stars": 2375
@@ -773,9 +773,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:17:17.817Z",
-    "original_repository": "barbeau/awesome-gnss",
-    "original_repository_id": 214236544,
+    "last_updated": "2026-08-27T11:42:23.252Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 214236544,
+      "language": null,
+      "last_commit": "2026-08-23T17:30:11Z",
+      "owner": "barbeau",
+      "repo": "awesome-gnss",
+      "stars": 596
+    },
     "original_repository_sha": "27aed5bfbfe778e5c8c9b52110abe8977cf40a39",
     "enhanced_repository": "enhansome/enhansome-gnss",
     "enhanced_repository_description": null,
