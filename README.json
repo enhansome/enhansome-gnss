@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T10:26:10Z",
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2375
+            "stars": 2376
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2024-05-28T10:17:00Z",
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3117
+            "stars": 3118
           }
         },
         {
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 18740094,
             "language": "C++",
-            "last_commit": "2026-08-27T09:58:51Z",
+            "last_commit": "2026-08-27T15:41:52Z",
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
             "stars": 2216
@@ -615,7 +615,7 @@
             "archived": false,
             "id": 1284766396,
             "language": "Rust",
-            "last_commit": "2026-08-26T15:18:14Z",
+            "last_commit": "2026-08-27T17:44:36Z",
             "owner": "neilberkman",
             "repo": "sidereon",
             "stars": 16
@@ -630,7 +630,7 @@
             "archived": false,
             "id": 1234333775,
             "language": "Python",
-            "last_commit": "2026-08-24T15:50:51Z",
+            "last_commit": "2026-08-28T00:41:08Z",
             "owner": "inuex35",
             "repo": "tightly-coupled-gnss-imu-fgo",
             "stars": 12
@@ -675,7 +675,7 @@
             "archived": false,
             "id": 1256508460,
             "language": "Rust",
-            "last_commit": "2026-08-01T02:37:03Z",
+            "last_commit": "2026-08-27T12:19:21Z",
             "owner": "ashfordeOU",
             "repo": "kshana",
             "stars": 6
@@ -690,7 +690,7 @@
             "archived": false,
             "id": 439435081,
             "language": "C++",
-            "last_commit": "2026-08-25T00:22:26Z",
+            "last_commit": "2026-08-27T15:09:14Z",
             "owner": "fenrir-naru",
             "repo": "gps_pvt",
             "stars": 6
@@ -714,7 +714,7 @@
             "last_commit": "2026-08-27T10:26:10Z",
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2375
+            "stars": 2376
           }
         },
         {
@@ -773,7 +773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:23.252Z",
+    "last_updated": "2026-08-28T01:28:26.411Z",
     "original_repository_info": {
       "archived": false,
       "id": 214236544,
