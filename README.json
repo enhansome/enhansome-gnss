@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The #1 open-source Android GNSS/GPS test program",
+            "homepage": null,
             "id": 5510421,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T10:26:10Z",
+            "open_issues": 114,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2376
+            "stars": 2376,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 67263891,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-12T15:10:58Z",
+            "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 841
+            "stars": 841,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -42,12 +52,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GPS logger for Android mobile devices",
+            "homepage": "http://www.basicairdata.eu/projects/android/android-gps-logger/",
             "id": 25473634,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-25T19:54:39Z",
+            "open_issues": 65,
             "owner": "BasicAirData",
             "repo": "GPSLogger",
-            "stars": 501
+            "stars": 501,
+            "topics": [
+              "accuracy",
+              "altitude",
+              "android",
+              "basicairdata",
+              "gps",
+              "gps-logger",
+              "gpslogger",
+              "gpx",
+              "kml",
+              "logger"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -58,12 +84,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A novel framework for processing raw GNSS measurements on an Android smartphone",
+            "homepage": "https://gnss-compare.readthedocs.io",
             "id": 136978154,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-22T09:36:21Z",
+            "open_issues": 3,
             "owner": "TheGalfins",
             "repo": "GNSS_Compare",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "android",
+              "framework",
+              "gnss",
+              "satellite-navigation",
+              "signal-processing"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -74,12 +111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React Native module to check GNSS status and satellite information on Android, including NavIC and dual-frequency GPS support.",
+            "homepage": null,
             "id": 999396527,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-09-01T06:55:41Z",
+            "open_issues": 0,
             "owner": "vijayanandof",
             "repo": "react-native-gnss-status-checker",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         }
@@ -96,12 +138,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📌 GPS logger for iOS devices",
+            "homepage": "https://overland.p3k.app",
             "id": 13785086,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-23T14:38:15Z",
+            "open_issues": 39,
             "owner": "aaronpk",
             "repo": "Overland-iOS",
-            "stars": 725
+            "stars": 725,
+            "topics": [
+              "corelocation",
+              "gps",
+              "gps-tracker",
+              "gpslogger",
+              "hacktoberfest",
+              "ios",
+              "trip"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -112,12 +167,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GPS Tracker app for iOS + WatchOS. Log your tracks without limits and share them; Open source GPX tracker app written in Swift",
+            "homepage": "http://www.merlos.org/iOS-Open-GPX-Tracker/",
             "id": 24654935,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T17:56:31Z",
+            "open_issues": 78,
             "owner": "merlos",
             "repo": "iOS-Open-GPX-Tracker",
-            "stars": 718
+            "stars": 718,
+            "topics": [
+              "gpx",
+              "gpx-files",
+              "ios",
+              "ios-app",
+              "ios-swift",
+              "iphone",
+              "offline-maps",
+              "osm",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         }
@@ -134,12 +204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 9743267,
             "language": "C",
+            "license": null,
             "last_commit": "2024-05-28T10:17:00Z",
+            "open_issues": 455,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3118
+            "stars": 3118,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -150,12 +225,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GNSS-SDR, an open-source software-defined GNSS receiver",
+            "homepage": "https://gnss-sdr.org",
             "id": 18740094,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T10:22:22Z",
+            "open_issues": 234,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2217
+            "stars": 2218,
+            "topics": [
+              "c-plus-plus",
+              "galileo",
+              "glonass",
+              "gnss",
+              "gnss-sdr",
+              "gnuradio",
+              "gps",
+              "rtl-sdr",
+              "sdr",
+              "signal-processing",
+              "software-defined-radio"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -166,12 +258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 67263891,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-12T15:10:58Z",
+            "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 841
+            "stars": 841,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -182,12 +279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open-source Package for GNSS Positioning and Real-time Kinematic Using Factor Graph Optimization",
+            "homepage": null,
             "id": 305877839,
             "language": "C",
+            "license": null,
             "last_commit": "2022-12-29T04:13:20Z",
+            "open_issues": 8,
             "owner": "weisongwen",
             "repo": "GraphGNSSLib",
-            "stars": 625
+            "stars": 625,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -198,12 +300,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ATTENTION: This repository has been moved and is for archival purposes only. GPSTk toolkit has been renamed to GNSSTK and has been split into two new separate repositories. GNSSTK now only contains libraries while the other repository GNSSTK-APPS contains only applications. The rename and split into libraries and applications started with version v12.0.0 on September 2021.  GPSTk --> GNSSTK at https://gitlab.com/sgl-ut/gnsstk --> GNSSTK-APPS at https://gitlab.com/sgl-ut/gnsstk-apps",
+            "homepage": null,
             "id": 21739842,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-28T19:07:02Z",
+            "open_issues": 38,
             "owner": "SGL-UT",
             "repo": "GPSTk",
-            "stars": 360
+            "stars": 360,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -214,12 +321,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Australian Government, through Positioning Australia (part of Geoscience Australia), is funding the design, development and operational service of a Global Navigation Satellite System (GNSS) position correction system - the Ginan service and toolkit. The application of the Ginan correction service by a GNSS device has the potential to increase positioning accuracy from meters to centimetres across Australia. The suite of software systems in this repository (the Ginan toolkit) will be used to create the service. It is available now under an open source licence. Ginan will give individuals and organisations no-cost access to the Ginan software and service as a public good.",
+            "homepage": "https://geoscienceaustralia.github.io/ginan/",
             "id": 351286262,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T01:32:17Z",
+            "open_issues": 32,
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "gnss",
+              "ppp"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -230,12 +345,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GNSS Interferometric Reflectometry Software (GNSS-IR) in python",
+            "homepage": null,
             "id": 290630876,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-20T17:27:37Z",
+            "open_issues": 4,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
-            "stars": 217
+            "stars": 217,
+            "topics": [
+              "gnss-ir",
+              "gnssir",
+              "gps",
+              "snow",
+              "soilmoisture",
+              "tides",
+              "water-levels"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -246,12 +374,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FGI-GSRx Open Source multi-GNSS software receiver",
+            "homepage": null,
             "id": 439244697,
             "language": "MATLAB",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-10T14:04:12Z",
+            "open_issues": 12,
             "owner": "nlsfi",
             "repo": "FGI-GSRx",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "gnss",
+              "gnss-receiver",
+              "gnss-sdr"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -262,12 +399,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GNSS satellite visibility simulation from Google Earth",
+            "homepage": null,
             "id": 827718191,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2025-03-24T14:05:24Z",
+            "open_issues": 2,
             "owner": "taroz",
             "repo": "ge-gnss-visibility",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "gnss",
+              "googleearth"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -278,12 +423,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Factor graph optimization library for GNSS positining",
+            "homepage": null,
             "id": 895462026,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-05-23T13:55:51Z",
+            "open_issues": 3,
             "owner": "taroz",
             "repo": "gtsam_gnss",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "fgo",
+              "gnss",
+              "gps"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -294,12 +448,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RINEX parsing, analysis, production, including many SERDES operations",
+            "homepage": null,
             "id": 439256131,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-21T12:03:40Z",
+            "open_issues": 27,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "geodesy",
+              "gnss",
+              "gps",
+              "parser",
+              "rinex",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -310,12 +476,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Smartphone Decimeter Challenge 2023",
+            "homepage": null,
             "id": 827121895,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2025-01-15T07:36:19Z",
+            "open_issues": 3,
             "owner": "taroz",
             "repo": "gsdc2023",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "fgo",
+              "gnss",
+              "imu",
+              "kaggle",
+              "localization",
+              "smarthome"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -326,12 +504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a python script that converts logs from Google's GNSS measurement tools to RINEX",
+            "homepage": null,
             "id": 97137585,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-06-24T09:13:26Z",
+            "open_issues": 7,
             "owner": "rokubun",
             "repo": "android_rinex",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -342,12 +525,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MATLAB wrapper for RTKLIB",
+            "homepage": null,
             "id": 802481211,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2025-03-08T11:44:50Z",
+            "open_issues": 2,
             "owner": "taroz",
             "repo": "MatRTKLIB",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "gnss",
+              "gps"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -358,12 +549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "goGPS Java is a GNSS observation processing library.",
+            "homepage": "http://www.gogps-project.org",
             "id": 32495199,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-03-13T09:15:55Z",
+            "open_issues": 14,
             "owner": "goGPS-Project",
             "repo": "goGPS_Java",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -374,12 +570,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualization of vehicle position and pose estimation in Google Earth",
+            "homepage": null,
             "id": 932771742,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2025-03-24T12:59:53Z",
+            "open_issues": 0,
             "owner": "taroz",
             "repo": "ge-drive-visualizer",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "gnss",
+              "googleearth",
+              "lidar",
+              "localization",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -390,12 +597,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "NRCan-CGS GPSPACE software / Logiciel GPSPACE de LGC-RNCan",
+            "homepage": null,
             "id": 156905330,
             "language": "Fortran",
+            "license": "NOASSERTION",
             "last_commit": "2018-11-09T19:17:30Z",
+            "open_issues": 0,
             "owner": "CGS-GIS",
             "repo": "GPSPACE",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -406,12 +618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source Python-based GNSS software.",
+            "homepage": null,
             "id": 971037495,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-01T22:03:01Z",
+            "open_issues": 0,
             "owner": "PyGnssLab",
             "repo": "pygnsslab",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -422,12 +639,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 424319436,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T08:57:54Z",
+            "open_issues": 19,
             "owner": "jtec",
             "repo": "prx",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "gnss",
+              "rinex"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -438,12 +663,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Convert from Google gnsslogger to standard RINEX 3.04 observation files for Android smartphones",
+            "homepage": null,
             "id": 645595956,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-10-29T00:54:59Z",
+            "open_issues": 1,
             "owner": "Jia-le-wang",
             "repo": "BUAA-RINEX-Convertor",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -454,12 +684,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arduino sketches for the TinkerRTK base station and rover communicating over a WiFi network",
+            "homepage": null,
             "id": 669099131,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-07T11:06:19Z",
+            "open_issues": 2,
             "owner": "Tinkerbug-Robotics",
             "repo": "TinkerRTKWiFiNetwork",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         }
@@ -476,12 +711,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS 2 sensor fusion SDK: UKF, 3D native, proper GNSS, zero manual tuning. Apache 2.0.",
+            "homepage": "https://manankharwar.github.io/fusioncore/",
             "id": 1184507826,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T05:42:42Z",
+            "open_issues": 32,
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 317
+            "stars": 317,
+            "topics": [
+              "autonomous-robots",
+              "autonomous-systems",
+              "gazebo",
+              "gazebo-ros",
+              "gnss",
+              "gps",
+              "imu",
+              "kalman-filter",
+              "localization",
+              "navigation",
+              "robot-localization",
+              "robotics",
+              "ros2",
+              "ros2-jazzy",
+              "sensor-fusion",
+              "slam",
+              "state-estimation",
+              "ukf",
+              "wheel-odometry"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -492,12 +752,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern C++ GNSS/RTK/PPP/CLAS toolkit.",
+            "homepage": "https://rsasaki0109.github.io/gnssplusplus-library/",
             "id": 1050336885,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:57:05Z",
+            "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "c-plus-plus",
+              "gnss",
+              "localization",
+              "positioning",
+              "ppp",
+              "qzss",
+              "rinex",
+              "ros2",
+              "rtcm",
+              "rtk"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -508,12 +784,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RINEX parsing, analysis, production, including many SERDES operations",
+            "homepage": null,
             "id": 439256131,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-21T12:03:40Z",
+            "open_issues": 27,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "geodesy",
+              "gnss",
+              "gps",
+              "parser",
+              "rinex",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -524,12 +812,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RINEX parsing, analysis, production, including many SERDES operations",
+            "homepage": null,
             "id": 439256131,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-21T12:03:40Z",
+            "open_issues": 27,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "geodesy",
+              "gnss",
+              "gps",
+              "parser",
+              "rinex",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -540,12 +840,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RINEX parsing, analysis, production, including many SERDES operations",
+            "homepage": null,
             "id": 439256131,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-21T12:03:40Z",
+            "open_issues": 27,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "geodesy",
+              "gnss",
+              "gps",
+              "parser",
+              "rinex",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -556,12 +868,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Precise Point Positioning (PPP) and Real Time Kinematics (RTK) solvers",
+            "homepage": null,
             "id": 711832369,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-17T14:00:33Z",
+            "open_issues": 21,
             "owner": "nav-solutions",
             "repo": "gnss-rtk",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "galileo",
+              "geodesy",
+              "gnss",
+              "gps",
+              "rtk"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -572,12 +895,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GPU particle-filter GNSS positioning for the urban canyon: ray-traced NLOS rejection & FGO",
+            "homepage": "https://rsasaki0109.github.io/gnss_gpu/",
             "id": 1196621813,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:22:29Z",
+            "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 68
+            "stars": 71,
+            "topics": [
+              "autonomous-driving",
+              "cuda",
+              "factor-graph",
+              "gnss",
+              "gps",
+              "gpu",
+              "kaggle",
+              "localization",
+              "nlos",
+              "particle-filter",
+              "positioning",
+              "rtk",
+              "rtklib",
+              "urban-canyon"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -588,12 +931,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESP32 GPS Controller, with support for USB Serial, Bluetooth, RTK Corrections, NTRIP Caster/Server/Client and ESP-Now forwarding.",
+            "homepage": null,
             "id": 1046335735,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-18T14:44:44Z",
+            "open_issues": 2,
             "owner": "mrichar1",
             "repo": "esp32-gps",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "esp32",
+              "gps",
+              "lc29h",
+              "micropython",
+              "nmea",
+              "rtcm",
+              "rtk"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -604,12 +960,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CGGTTS for remote clock comparison :satellite:  :artificial_satellite:",
+            "homepage": null,
             "id": 439281303,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-06-17T13:05:40Z",
+            "open_issues": 4,
             "owner": "nav-solutions",
             "repo": "cggtts",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "bipm",
+              "common-view",
+              "galileo",
+              "glonass",
+              "gnss",
+              "gps",
+              "gps-data",
+              "rust",
+              "time-transfer"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -620,12 +991,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight port of the GeoTools EarthGravitationalModel (http://docs.geotools.org/latest/javadocs/org/geotools/referencing/operation/transform/EarthGravitationalModel.html).",
+            "homepage": null,
             "id": 72967771,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2021-10-06T11:40:02Z",
+            "open_issues": 0,
             "owner": "barbeau",
             "repo": "earth-gravitational-model",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -636,12 +1012,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NtripStreams provide communication methods for the NTRIP protocol.",
+            "homepage": "https://stenseng.github.io/ntripstreams/",
             "id": 357961607,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-12T08:58:56Z",
+            "open_issues": 1,
             "owner": "stenseng",
             "repo": "ntripstreams",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -652,12 +1035,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GNSS positioning (SPP/RTK/PPP/DGNSS) and astrodynamics (SGP4, SPK ephemerides, conjunctions) in Rust, with TLE/OMM/RINEX/SP3/RTCM parsing.",
+            "homepage": null,
             "id": 1284766396,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T23:43:23Z",
+            "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -668,12 +1056,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tightly-coupled IMU + GNSS RTK on GTSAM factor graphs",
+            "homepage": null,
             "id": 1234333775,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T00:41:08Z",
+            "open_issues": 0,
             "owner": "inuex35",
             "repo": "tightly-coupled-gnss-imu-fgo",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "gnss",
+              "graph-optimization",
+              "imu",
+              "sensor-fusion",
+              "tightly-coupled"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -684,12 +1083,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Definitions for GNSS in Rust",
+            "homepage": null,
             "id": 711843683,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-06-10T08:56:58Z",
+            "open_issues": 2,
             "owner": "nav-solutions",
             "repo": "gnss",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "gnss",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -700,12 +1107,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java library that facilitates reading, writing and processing of sensor events and raw GNSS measurements encoded according to the Google's GNSS Logger application format.",
+            "homepage": null,
             "id": 418867984,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-10-24T13:56:57Z",
+            "open_issues": 0,
             "owner": "gscatto",
             "repo": "google-gnss-logger",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "android",
+              "gnss",
+              "google",
+              "logger"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -716,12 +1133,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open, validated, reproducible PNT-resilience simulator spanning the full positioning, navigation & timing stack — orbit, clocks, INS, GNSS, integrity, resilience, lunar/cislunar & deep-space nav — plus quantum-vs-classical models. Runs as a Rust lib/CLI, Python, in-browser (WASM), an MCP server / Claude Code plugin, and a JetBrains plugin.",
+            "homepage": "https://kshana.dev",
             "id": 1256508460,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T12:19:21Z",
+            "open_issues": 2,
             "owner": "ashfordeOU",
             "repo": "kshana",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "aerospace",
+              "astrodynamics",
+              "gnss",
+              "mcp",
+              "model-context-protocol",
+              "navigation",
+              "orbital-mechanics",
+              "pnt",
+              "positioning",
+              "quantum-navigation",
+              "quantum-sensors",
+              "raim",
+              "reproducible-research",
+              "rust",
+              "satellite",
+              "sgp4",
+              "simulation",
+              "vlbi",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -732,12 +1175,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby GNSS PVT (position, velocity and time) solver",
+            "homepage": null,
             "id": 439435081,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:09:14Z",
+            "open_issues": 0,
             "owner": "fenrir-naru",
             "repo": "gps_pvt",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "agps",
+              "gnss",
+              "gps",
+              "rinex",
+              "rtcm3",
+              "supl",
+              "u-blox"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         }
@@ -754,12 +1210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The #1 open-source Android GNSS/GPS test program",
+            "homepage": null,
             "id": 5510421,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T10:26:10Z",
+            "open_issues": 114,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2376
+            "stars": 2376,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -770,12 +1231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UrbanNav:An Open-sourced Multisensory Dataset for Benchmarking Positioning Algorithms Designed for Urban Areas",
+            "homepage": null,
             "id": 370905429,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-05T12:54:12Z",
+            "open_issues": 2,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 602
+            "stars": 602,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         }
@@ -792,12 +1258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 67263891,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-12T15:10:58Z",
+            "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 841
+            "stars": 841,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -808,12 +1279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 67263891,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-12T15:10:58Z",
+            "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 841
+            "stars": 841,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         }
@@ -822,15 +1298,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:57:17.414Z",
+    "last_updated": "2026-08-29T04:40:32.946Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Community list of open-source GNSS software and resources :satellite:",
+      "homepage": null,
       "id": 214236544,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-08-23T17:30:11Z",
+      "open_issues": 7,
       "owner": "barbeau",
       "repo": "awesome-gnss",
-      "stars": 596
+      "stars": 596,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "galileo",
+        "gnss",
+        "gps",
+        "gpstest",
+        "raw-measurements",
+        "satellite"
+      ]
     },
     "original_repository_sha": "27aed5bfbfe778e5c8c9b52110abe8977cf40a39",
     "enhanced_repository": "enhansome/enhansome-gnss",

@@ -42,7 +42,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 ### Desktop tools (open-source)
 
 * **RTKLIB** ([Download](http://www.rtklib.com/), [Source code](https://github.com/tomojitakasu/RTKLIB) ⭐ 3,118 | 🐛 455 | 🌐 C | 📅 2024-05-28) - An Open Source Program Package for GNSS Positioning. Has a companion Android app [RTKGPS+](https://play.google.com/store/apps/details?id=gpsplus.rtkgps). Supports Windows.
-* **GNSS-SDR** ([Download](https://gnss-sdr.org/), [Source code](https://github.com/gnss-sdr/gnss-sdr) ⭐ 2,217 | 🐛 234 | 🌐 C++ | 📅 2026-08-28) - An open source GNSS software defined receiver. Supports Linux, Mac, and Windows.
+* **GNSS-SDR** ([Download](https://gnss-sdr.org/), [Source code](https://github.com/gnss-sdr/gnss-sdr) ⭐ 2,218 | 🐛 234 | 🌐 C++ | 📅 2026-08-28) - An open source GNSS software defined receiver. Supports Linux, Mac, and Windows.
 * **Google's GPS Measurement Tools suite** ([Download](https://github.com/google/gps-measurement-tools/releases) ⭐ 841 | 🐛 6 | 🌐 Java | 📅 2024-06-12, [Source code](https://insidegnss.com/gnss-analysis-tools-from-google/)) - Desktop companion app for GNSSLogger to visualize and analyze raw measurements. Supports Windows, Mac, and Linux.
 * **GraphGNSSLib** ([Source code](https://github.com/weisongwen/GraphGNSSLib) ⭐ 625 | 🐛 8 | 🌐 C | 📅 2022-12-29) - An Open-source Package for GNSS Positioning and Real-time Kinematic Using Factor Graph Optimization.
 * **GPSTk** ([Download](http://www.gpstk.org), [Source code](https://github.com/SGL-UT/GPSTk) ⚠️ Archived) - C++ open source library and a suite of applications for GPS processing problems.
@@ -89,7 +89,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 * [GeoRust - SINEX](https://github.com/georust/rinex/tree/main/sinex) ⭐ 125 | 🐛 27 | 🌐 Rust | 📅 2026-07-21 - SINEX files parsing.
 * [GeoRust - SP3](https://github.com/georust/rinex/tree/main/sp3) ⭐ 125 | 🐛 27 | 🌐 Rust | 📅 2026-07-21 - SP3 Precise Orbits by IGS - files parsing and processing in Rust.
 * [RTK - Rust](https://github.com/rtk-rs/gnss-rtk) ⭐ 79 | 🐛 21 | 🌐 Rust | 📅 2026-06-17 - Precise Positioning in Rust.
-* [gnss\_gpu](https://github.com/rsasaki0109/gnss_gpu) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2026-08-28 - GPU-accelerated GNSS positioning for dense urban areas, using CUDA particle filters with NLOS rejection based on ray tracing against 3D city models.
+* [gnss\_gpu](https://github.com/rsasaki0109/gnss_gpu) ⭐ 71 | 🐛 1 | 🌐 Python | 📅 2026-08-28 - GPU-accelerated GNSS positioning for dense urban areas, using CUDA particle filters with NLOS rejection based on ray tracing against 3D city models.
 * [ESP32-GPS](https://github.com/mrichar1/esp32-gps) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2026-07-18 - ESP32 GPS Controller, with support for USB Serial, Bluetooth, RTK Corrections, NTRIP Caster/Server/Client and ESP-Now forwarding.
 * [CGGTTS](https://github.com/gwbres/cggtts) ⭐ 18 | 🐛 4 | 🌐 Rust | 📅 2026-06-17 - support for CGGTTS (special PVT) solutions in Rust. Includes both a file parser and a sky tracker for CGGTTS track scheduling.
   CGGTTS is used in remote clock comparison, by mean of common satellite vehicle in sight.
