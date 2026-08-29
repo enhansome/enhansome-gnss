@@ -15,11 +15,11 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T10:26:10Z",
-            "open_issues": 114,
+            "last_commit": "2026-08-29T19:23:40Z",
+            "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2376,
+            "stars": 2375,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T10:22:22Z",
-            "open_issues": 234,
+            "last_commit": "2026-08-29T13:02:53Z",
+            "open_issues": 233,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2218,
+            "stars": 2219,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -330,7 +330,7 @@
             "open_issues": 32,
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
-            "stars": 340,
+            "stars": 341,
             "topics": [
               "gnss",
               "ppp"
@@ -383,7 +383,7 @@
             "open_issues": 12,
             "owner": "nlsfi",
             "repo": "FGI-GSRx",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "gnss",
               "gnss-receiver",
@@ -904,7 +904,7 @@
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 71,
+            "stars": 73,
             "topics": [
               "autonomous-driving",
               "cuda",
@@ -1040,7 +1040,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T23:43:23Z",
+            "last_commit": "2026-08-29T19:33:52Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1061,7 +1061,7 @@
             "id": 1234333775,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T00:41:08Z",
+            "last_commit": "2026-08-29T11:46:12Z",
             "open_issues": 0,
             "owner": "inuex35",
             "repo": "tightly-coupled-gnss-imu-fgo",
@@ -1215,11 +1215,11 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T10:26:10Z",
-            "open_issues": 114,
+            "last_commit": "2026-08-29T19:23:40Z",
+            "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2376,
+            "stars": 2375,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1298,7 +1298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:32.946Z",
+    "last_updated": "2026-08-29T19:42:46.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
