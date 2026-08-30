@@ -15,7 +15,7 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:23:40Z",
+            "last_commit": "2026-08-29T19:43:35Z",
             "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
@@ -147,7 +147,7 @@
             "open_issues": 39,
             "owner": "aaronpk",
             "repo": "Overland-iOS",
-            "stars": 725,
+            "stars": 726,
             "topics": [
               "corelocation",
               "gps",
@@ -234,7 +234,7 @@
             "open_issues": 233,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2219,
+            "stars": 2220,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -330,7 +330,7 @@
             "open_issues": 32,
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
-            "stars": 341,
+            "stars": 342,
             "topics": [
               "gnss",
               "ppp"
@@ -350,7 +350,7 @@
             "id": 290630876,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-20T17:27:37Z",
+            "last_commit": "2026-08-30T18:51:16Z",
             "open_issues": 4,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
@@ -761,7 +761,7 @@
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 188,
+            "stars": 187,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -904,7 +904,7 @@
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 73,
+            "stars": 75,
             "topics": [
               "autonomous-driving",
               "cuda",
@@ -1007,6 +1007,27 @@
         },
         {
           "node_type": "item",
+          "title": "sidereon",
+          "description": "One engine for GNSS positioning (SPP/RTK/PPP), astrodynamics (SGP4, conjunction, covariance propagation), and the data formats (RINEX 2/3/4, RTCM 3 MSM, SP3, NTRIP, NMEA, RINEX QC), with native Rust, Python, C, WebAssembly, and Elixir interfaces over a single Rust core. Cross-validated against Vallado, IGS, IERS, teqc, RTKLIB, and PROJ; in-browser demo at https://sidereon.dev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GNSS positioning (SPP/RTK/PPP/DGNSS) and astrodynamics (SGP4, SPK ephemerides, conjunctions) in Rust, with TLE/OMM/RINEX/SP3/RTCM parsing.",
+            "homepage": null,
+            "id": 1284766396,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-08-30T19:33:21Z",
+            "open_issues": 1,
+            "owner": "neilberkman",
+            "repo": "sidereon",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:57:17.414Z"
+        },
+        {
+          "node_type": "item",
           "title": "ntripstreams",
           "description": "Python interface to transfer GNSS and related data between GNSS instruments, Ntrip caster and users using the Ntrip protocol.",
           "children": [],
@@ -1030,27 +1051,6 @@
         },
         {
           "node_type": "item",
-          "title": "sidereon",
-          "description": "One engine for GNSS positioning (SPP/RTK/PPP), astrodynamics (SGP4, conjunction, covariance propagation), and the data formats (RINEX 2/3/4, RTCM 3 MSM, SP3, NTRIP, NMEA, RINEX QC), with native Rust, Python, C, WebAssembly, and Elixir interfaces over a single Rust core. Cross-validated against Vallado, IGS, IERS, teqc, RTKLIB, and PROJ; in-browser demo at https://sidereon.dev.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "GNSS positioning (SPP/RTK/PPP/DGNSS) and astrodynamics (SGP4, SPK ephemerides, conjunctions) in Rust, with TLE/OMM/RINEX/SP3/RTCM parsing.",
-            "homepage": null,
-            "id": 1284766396,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-08-29T19:33:52Z",
-            "open_issues": 0,
-            "owner": "neilberkman",
-            "repo": "sidereon",
-            "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:57:17.414Z"
-        },
-        {
-          "node_type": "item",
           "title": "tightly-coupled-gnss-imu-fgo",
           "description": "Tightly-coupled GNSS RTK + IMU on GTSAM factor graphs: double-differenced code/carrier with LAMBDA ambiguity resolution and fix-and-hold, IMU preintegration, and between-satellite single-differenced Doppler. Results are reproducible end-to-end on the open PPC-Dataset urban Tokyo drives.",
           "children": [],
@@ -1065,7 +1065,7 @@
             "open_issues": 0,
             "owner": "inuex35",
             "repo": "tightly-coupled-gnss-imu-fgo",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "gnss",
               "graph-optimization",
@@ -1215,7 +1215,7 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:23:40Z",
+            "last_commit": "2026-08-29T19:43:35Z",
             "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
@@ -1240,7 +1240,7 @@
             "open_issues": 2,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 602,
+            "stars": 603,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1298,7 +1298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:42:46.009Z",
+    "last_updated": "2026-08-30T19:48:43.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
