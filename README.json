@@ -19,7 +19,7 @@
             "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2378,
+            "stars": 2384,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T08:28:32Z",
-            "open_issues": 233,
+            "last_commit": "2026-09-01T10:11:42Z",
+            "open_issues": 232,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2221,
+            "stars": 2222,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -288,7 +288,7 @@
             "open_issues": 8,
             "owner": "weisongwen",
             "repo": "GraphGNSSLib",
-            "stars": 625,
+            "stars": 624,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -330,7 +330,7 @@
             "open_issues": 33,
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "gnss",
               "ppp"
@@ -383,7 +383,7 @@
             "open_issues": 12,
             "owner": "nlsfi",
             "repo": "FGI-GSRx",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "gnss",
               "gnss-receiver",
@@ -432,7 +432,7 @@
             "open_issues": 3,
             "owner": "taroz",
             "repo": "gtsam_gnss",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "fgo",
               "gnss",
@@ -716,7 +716,7 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-21T05:42:42Z",
+            "last_commit": "2026-09-01T17:35:21Z",
             "open_issues": 32,
             "owner": "manankharwar",
             "repo": "fusioncore",
@@ -757,7 +757,7 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-31T21:41:02Z",
+            "last_commit": "2026-09-01T19:53:44Z",
             "open_issues": 2,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
@@ -1017,7 +1017,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-31T13:59:19Z",
+            "last_commit": "2026-09-01T11:47:02Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1138,8 +1138,8 @@
             "id": 1256508460,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-27T12:19:21Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-01T02:38:58Z",
+            "open_issues": 1,
             "owner": "ashfordeOU",
             "repo": "kshana",
             "stars": 6,
@@ -1219,7 +1219,7 @@
             "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2378,
+            "stars": 2384,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1240,7 +1240,7 @@
             "open_issues": 2,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 603,
+            "stars": 602,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1298,7 +1298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:53:20.616Z",
+    "last_updated": "2026-09-01T19:55:02.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
