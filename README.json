@@ -19,7 +19,7 @@
             "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2388,
+            "stars": 2389,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -213,7 +213,7 @@
             "open_issues": 456,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3121,
+            "stars": 3122,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T21:10:19Z",
-            "open_issues": 232,
+            "last_commit": "2026-09-03T20:39:08Z",
+            "open_issues": 237,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2223,
+            "stars": 2226,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -644,8 +644,8 @@
             "id": 424319436,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-01T21:21:00Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-03T21:07:48Z",
+            "open_issues": 20,
             "owner": "jtec",
             "repo": "prx",
             "stars": 23,
@@ -717,10 +717,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T19:28:07Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 333,
+            "stars": 341,
             "topics": [
               "autonomous-robots",
               "autonomous-systems",
@@ -904,7 +904,7 @@
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "autonomous-driving",
               "cuda",
@@ -1007,27 +1007,6 @@
         },
         {
           "node_type": "item",
-          "title": "sidereon",
-          "description": "One engine for GNSS positioning (SPP/RTK/PPP), astrodynamics (SGP4, conjunction, covariance propagation), and the data formats (RINEX 2/3/4, RTCM 3 MSM, SP3, NTRIP, NMEA, RINEX QC), with native Rust, Python, C, WebAssembly, and Elixir interfaces over a single Rust core. Cross-validated against Vallado, IGS, IERS, teqc, RTKLIB, and PROJ; in-browser demo at https://sidereon.dev.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "GNSS positioning (SPP/RTK/PPP/DGNSS) and astrodynamics (SGP4, SPK ephemerides, conjunctions) in Rust, with TLE/OMM/RINEX/SP3/RTCM parsing.",
-            "homepage": null,
-            "id": 1284766396,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-09-03T11:23:12Z",
-            "open_issues": 0,
-            "owner": "neilberkman",
-            "repo": "sidereon",
-            "stars": 17,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:57:17.414Z"
-        },
-        {
-          "node_type": "item",
           "title": "ntripstreams",
           "description": "Python interface to transfer GNSS and related data between GNSS instruments, Ntrip caster and users using the Ntrip protocol.",
           "children": [],
@@ -1046,6 +1025,27 @@
             "topics": [
               "python"
             ]
+          },
+          "first_seen": "2026-08-29T00:57:17.414Z"
+        },
+        {
+          "node_type": "item",
+          "title": "sidereon",
+          "description": "One engine for GNSS positioning (SPP/RTK/PPP), astrodynamics (SGP4, conjunction, covariance propagation), and the data formats (RINEX 2/3/4, RTCM 3 MSM, SP3, NTRIP, NMEA, RINEX QC), with native Rust, Python, C, WebAssembly, and Elixir interfaces over a single Rust core. Cross-validated against Vallado, IGS, IERS, teqc, RTKLIB, and PROJ; in-browser demo at https://sidereon.dev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GNSS positioning (SPP/RTK/PPP/DGNSS) and astrodynamics (SGP4, SPK ephemerides, conjunctions) in Rust, with TLE/OMM/RINEX/SP3/RTCM parsing.",
+            "homepage": null,
+            "id": 1284766396,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-04T16:50:18Z",
+            "open_issues": 0,
+            "owner": "neilberkman",
+            "repo": "sidereon",
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -1219,7 +1219,7 @@
             "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2388,
+            "stars": 2389,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1298,7 +1298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:47:38.176Z",
+    "last_updated": "2026-09-04T19:32:10.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
