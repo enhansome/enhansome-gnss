@@ -19,7 +19,7 @@
             "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2389,
+            "stars": 2390,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -61,7 +61,7 @@
             "open_issues": 65,
             "owner": "BasicAirData",
             "repo": "GPSLogger",
-            "stars": 503,
+            "stars": 502,
             "topics": [
               "accuracy",
               "altitude",
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T20:39:08Z",
-            "open_issues": 237,
+            "last_commit": "2026-09-05T17:01:00Z",
+            "open_issues": 232,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2226,
+            "stars": 2227,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -288,7 +288,7 @@
             "open_issues": 8,
             "owner": "weisongwen",
             "repo": "GraphGNSSLib",
-            "stars": 624,
+            "stars": 625,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -351,7 +351,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-08-30T20:06:24Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
             "stars": 217,
@@ -711,16 +711,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "ROS 2 sensor fusion SDK: UKF, 3D native, proper GNSS, zero manual tuning. Apache 2.0.",
+            "description": "ROS 2 localization for outdoor robots: IMU, wheel encoders and GPS fused in a 23-state UKF at 100 Hz. When the estimate goes wrong it reports which sensor and why, instead of drifting silently. Apache 2.0.",
             "homepage": "https://manankharwar.github.io/fusioncore/",
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T19:28:07Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-04T21:33:13Z",
+            "open_issues": 31,
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 341,
+            "stars": 342,
             "topics": [
               "autonomous-robots",
               "autonomous-systems",
@@ -863,6 +863,42 @@
         },
         {
           "node_type": "item",
+          "title": "gnss_gpu",
+          "description": "GPU-accelerated GNSS positioning for dense urban areas, using CUDA particle filters with NLOS rejection based on ray tracing against 3D city models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GPU particle-filter GNSS positioning for the urban canyon: ray-traced NLOS rejection & FGO",
+            "homepage": "https://rsasaki0109.github.io/gnss_gpu/",
+            "id": 1196621813,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T08:22:29Z",
+            "open_issues": 1,
+            "owner": "rsasaki0109",
+            "repo": "gnss_gpu",
+            "stars": 80,
+            "topics": [
+              "autonomous-driving",
+              "cuda",
+              "factor-graph",
+              "gnss",
+              "gps",
+              "gpu",
+              "kaggle",
+              "localization",
+              "nlos",
+              "particle-filter",
+              "positioning",
+              "rtk",
+              "rtklib",
+              "urban-canyon"
+            ]
+          },
+          "first_seen": "2026-08-29T00:57:17.414Z"
+        },
+        {
+          "node_type": "item",
           "title": "RTK - Rust",
           "description": "Precise Positioning in Rust.",
           "children": [],
@@ -884,42 +920,6 @@
               "gnss",
               "gps",
               "rtk"
-            ]
-          },
-          "first_seen": "2026-08-29T00:57:17.414Z"
-        },
-        {
-          "node_type": "item",
-          "title": "gnss_gpu",
-          "description": "GPU-accelerated GNSS positioning for dense urban areas, using CUDA particle filters with NLOS rejection based on ray tracing against 3D city models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "GPU particle-filter GNSS positioning for the urban canyon: ray-traced NLOS rejection & FGO",
-            "homepage": "https://rsasaki0109.github.io/gnss_gpu/",
-            "id": 1196621813,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-28T08:22:29Z",
-            "open_issues": 1,
-            "owner": "rsasaki0109",
-            "repo": "gnss_gpu",
-            "stars": 79,
-            "topics": [
-              "autonomous-driving",
-              "cuda",
-              "factor-graph",
-              "gnss",
-              "gps",
-              "gpu",
-              "kaggle",
-              "localization",
-              "nlos",
-              "particle-filter",
-              "positioning",
-              "rtk",
-              "rtklib",
-              "urban-canyon"
             ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1040,7 +1040,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-04T16:50:18Z",
+            "last_commit": "2026-09-05T10:43:51Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1061,7 +1061,7 @@
             "id": 1234333775,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T11:46:12Z",
+            "last_commit": "2026-09-05T14:51:17Z",
             "open_issues": 0,
             "owner": "inuex35",
             "repo": "tightly-coupled-gnss-imu-fgo",
@@ -1219,7 +1219,7 @@
             "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2389,
+            "stars": 2390,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1298,7 +1298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:32:10.275Z",
+    "last_updated": "2026-09-05T19:01:04.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
