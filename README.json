@@ -19,7 +19,7 @@
             "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2390,
+            "stars": 2392,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -36,7 +36,7 @@
             "id": 67263891,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2024-06-12T15:10:58Z",
+            "last_commit": "2026-09-06T05:18:29Z",
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
@@ -234,7 +234,7 @@
             "open_issues": 232,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2227,
+            "stars": 2228,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -263,7 +263,7 @@
             "id": 67263891,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2024-06-12T15:10:58Z",
+            "last_commit": "2026-09-06T05:18:29Z",
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
@@ -288,7 +288,7 @@
             "open_issues": 8,
             "owner": "weisongwen",
             "repo": "GraphGNSSLib",
-            "stars": 625,
+            "stars": 626,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -716,11 +716,11 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T21:33:13Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-06T19:06:07Z",
+            "open_issues": 34,
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "autonomous-robots",
               "autonomous-systems",
@@ -877,7 +877,7 @@
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "autonomous-driving",
               "cuda",
@@ -1017,7 +1017,7 @@
             "id": 357961607,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-12T08:58:56Z",
+            "last_commit": "2026-09-06T07:39:17Z",
             "open_issues": 1,
             "owner": "stenseng",
             "repo": "ntripstreams",
@@ -1040,7 +1040,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-05T10:43:51Z",
+            "last_commit": "2026-09-06T11:06:03Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1219,7 +1219,7 @@
             "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2390,
+            "stars": 2392,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1263,7 +1263,7 @@
             "id": 67263891,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2024-06-12T15:10:58Z",
+            "last_commit": "2026-09-06T05:18:29Z",
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
@@ -1284,7 +1284,7 @@
             "id": 67263891,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2024-06-12T15:10:58Z",
+            "last_commit": "2026-09-06T05:18:29Z",
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
@@ -1298,7 +1298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:01:04.263Z",
+    "last_updated": "2026-09-06T19:07:32.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
