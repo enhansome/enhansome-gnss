@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2397,
+            "stars": 2399,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -716,8 +716,8 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T05:56:36Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-12T15:36:11Z",
+            "open_issues": 41,
             "owner": "manankharwar",
             "repo": "fusioncore",
             "stars": 354,
@@ -1017,8 +1017,8 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-11T11:28:41Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-12T18:32:06Z",
+            "open_issues": 1,
             "owner": "neilberkman",
             "repo": "sidereon",
             "stars": 17,
@@ -1219,7 +1219,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2397,
+            "stars": 2399,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1298,7 +1298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:39:06.203Z",
+    "last_updated": "2026-09-12T19:15:48.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
