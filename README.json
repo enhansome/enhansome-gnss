@@ -40,7 +40,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 841,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -61,7 +61,7 @@
             "open_issues": 65,
             "owner": "BasicAirData",
             "repo": "GPSLogger",
-            "stars": 505,
+            "stars": 506,
             "topics": [
               "accuracy",
               "altitude",
@@ -213,7 +213,7 @@
             "open_issues": 456,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3129,
+            "stars": 3131,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T07:26:51Z",
-            "open_issues": 242,
+            "last_commit": "2026-09-16T14:12:59Z",
+            "open_issues": 240,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2258,
+            "stars": 2270,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -267,7 +267,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 841,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -326,8 +326,8 @@
             "id": 351286262,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-24T01:32:17Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-16T08:00:10Z",
+            "open_issues": 30,
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
             "stars": 343,
@@ -716,8 +716,8 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T19:29:39Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-15T21:08:22Z",
+            "open_issues": 40,
             "owner": "manankharwar",
             "repo": "fusioncore",
             "stars": 362,
@@ -752,26 +752,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Modern C++ GNSS/RTK/PPP/CLAS toolkit.",
+            "description": "Modern C++20 GNSS toolkit — RTK/PPP/CLAS/IMU fusion.",
             "homepage": "https://rsasaki0109.github.io/gnssplusplus-library/",
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-15T13:12:58Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-16T16:09:51Z",
+            "open_issues": 3,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 195,
+            "stars": 197,
             "topics": [
               "c-plus-plus",
               "gnss",
+              "imu",
               "localization",
               "positioning",
               "ppp",
               "qzss",
-              "rinex",
               "ros2",
-              "rtcm",
               "rtk"
             ]
           },
@@ -873,8 +872,8 @@
             "id": 1196621813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T11:09:28Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-16T11:55:27Z",
+            "open_issues": 0,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
             "stars": 84,
@@ -955,6 +954,33 @@
         },
         {
           "node_type": "item",
+          "title": "tightly-coupled-gnss-imu-fgo",
+          "description": "Tightly-coupled GNSS RTK + IMU on GTSAM factor graphs: double-differenced code/carrier with LAMBDA ambiguity resolution and fix-and-hold, IMU preintegration, and between-satellite single-differenced Doppler. Results are reproducible end-to-end on the open PPC-Dataset urban Tokyo drives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tightly-coupled IMU + GNSS RTK on GTSAM factor graphs",
+            "homepage": null,
+            "id": 1234333775,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-09-05T14:51:17Z",
+            "open_issues": 0,
+            "owner": "inuex35",
+            "repo": "tightly-coupled-gnss-imu-fgo",
+            "stars": 19,
+            "topics": [
+              "gnss",
+              "graph-optimization",
+              "imu",
+              "sensor-fusion",
+              "tightly-coupled"
+            ]
+          },
+          "first_seen": "2026-08-29T00:57:17.414Z"
+        },
+        {
+          "node_type": "item",
           "title": "CGGTTS",
           "description": "support for CGGTTS (special PVT) solutions in Rust. Includes both a file parser and a sky tracker for CGGTTS track scheduling. CGGTTS is used in remote clock comparison, by mean of common satellite vehicle in sight.",
           "children": [],
@@ -1017,39 +1043,12 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-15T11:52:31Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-16T11:43:26Z",
+            "open_issues": 1,
             "owner": "neilberkman",
             "repo": "sidereon",
             "stars": 18,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:57:17.414Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tightly-coupled-gnss-imu-fgo",
-          "description": "Tightly-coupled GNSS RTK + IMU on GTSAM factor graphs: double-differenced code/carrier with LAMBDA ambiguity resolution and fix-and-hold, IMU preintegration, and between-satellite single-differenced Doppler. Results are reproducible end-to-end on the open PPC-Dataset urban Tokyo drives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tightly-coupled IMU + GNSS RTK on GTSAM factor graphs",
-            "homepage": null,
-            "id": 1234333775,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-09-05T14:51:17Z",
-            "open_issues": 0,
-            "owner": "inuex35",
-            "repo": "tightly-coupled-gnss-imu-fgo",
-            "stars": 18,
-            "topics": [
-              "gnss",
-              "graph-optimization",
-              "imu",
-              "sensor-fusion",
-              "tightly-coupled"
-            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -1240,7 +1239,7 @@
             "open_issues": 2,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 606,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1267,7 +1266,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 841,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1288,7 +1287,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 841,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1298,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T20:12:57.703Z",
+    "last_updated": "2026-09-16T20:04:54.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
@@ -1310,7 +1309,7 @@
       "open_issues": 7,
       "owner": "barbeau",
       "repo": "awesome-gnss",
-      "stars": 599,
+      "stars": 600,
       "topics": [
         "awesome",
         "awesome-list",
