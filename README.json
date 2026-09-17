@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2402,
+            "stars": 2404,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -173,7 +173,7 @@
             "language": "Swift",
             "license": "GPL-3.0",
             "last_commit": "2026-08-25T17:56:31Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "merlos",
             "repo": "iOS-Open-GPX-Tracker",
             "stars": 718,
@@ -213,7 +213,7 @@
             "open_issues": 456,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3131,
+            "stars": 3132,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T14:12:59Z",
+            "last_commit": "2026-09-17T18:56:00Z",
             "open_issues": 240,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2270,
+            "stars": 2272,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -716,11 +716,11 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T21:08:22Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-17T19:37:28Z",
+            "open_issues": 45,
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "autonomous-robots",
               "autonomous-systems",
@@ -757,11 +757,11 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:09:51Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-17T15:04:37Z",
+            "open_issues": 5,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 197,
+            "stars": 201,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -968,7 +968,7 @@
             "open_issues": 0,
             "owner": "inuex35",
             "repo": "tightly-coupled-gnss-imu-fgo",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "gnss",
               "graph-optimization",
@@ -1043,8 +1043,8 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-16T11:43:26Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-17T11:50:17Z",
+            "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
             "stars": 18,
@@ -1218,7 +1218,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2402,
+            "stars": 2404,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1239,7 +1239,7 @@
             "open_issues": 2,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 608,
+            "stars": 607,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:04:54.633Z",
+    "last_updated": "2026-09-17T20:17:38.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
