@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2405,
+            "stars": 2407,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -147,7 +147,7 @@
             "open_issues": 39,
             "owner": "aaronpk",
             "repo": "Overland-iOS",
-            "stars": 732,
+            "stars": 733,
             "topics": [
               "corelocation",
               "gps",
@@ -213,7 +213,7 @@
             "open_issues": 456,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3132,
+            "stars": 3134,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -231,7 +231,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-18T11:50:03Z",
-            "open_issues": 240,
+            "open_issues": 241,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
             "stars": 2273,
@@ -288,7 +288,7 @@
             "open_issues": 8,
             "owner": "weisongwen",
             "repo": "GraphGNSSLib",
-            "stars": 628,
+            "stars": 629,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -350,8 +350,8 @@
             "id": 290630876,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T17:54:59Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-19T18:46:51Z",
+            "open_issues": 4,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
             "stars": 218,
@@ -717,7 +717,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T06:21:19Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "manankharwar",
             "repo": "fusioncore",
             "stars": 364,
@@ -761,7 +761,7 @@
             "open_issues": 2,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 210,
+            "stars": 213,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -1043,7 +1043,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T11:24:07Z",
+            "last_commit": "2026-09-19T11:08:10Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1137,7 +1137,7 @@
             "id": 1256508460,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-18T16:06:18Z",
+            "last_commit": "2026-09-19T17:00:19Z",
             "open_issues": 0,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1218,7 +1218,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2405,
+            "stars": 2407,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1236,10 +1236,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-11-05T12:54:12Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 607,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:34:40.300Z",
+    "last_updated": "2026-09-19T19:18:04.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
@@ -1309,7 +1309,7 @@
       "open_issues": 7,
       "owner": "barbeau",
       "repo": "awesome-gnss",
-      "stars": 600,
+      "stars": 601,
       "topics": [
         "awesome",
         "awesome-list",
