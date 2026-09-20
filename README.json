@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2407,
+            "stars": 2408,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -234,7 +234,7 @@
             "open_issues": 241,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2273,
+            "stars": 2275,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -350,11 +350,11 @@
             "id": 290630876,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T18:46:51Z",
+            "last_commit": "2026-09-20T17:35:44Z",
             "open_issues": 4,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
-            "stars": 218,
+            "stars": 219,
             "topics": [
               "gnss-ir",
               "gnssir",
@@ -408,7 +408,7 @@
             "open_issues": 2,
             "owner": "taroz",
             "repo": "ge-gnss-visibility",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "gnss",
               "googleearth"
@@ -717,7 +717,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T06:21:19Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "manankharwar",
             "repo": "fusioncore",
             "stars": 364,
@@ -761,7 +761,7 @@
             "open_issues": 2,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 213,
+            "stars": 217,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -1043,7 +1043,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-19T11:08:10Z",
+            "last_commit": "2026-09-20T15:11:01Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1137,7 +1137,7 @@
             "id": 1256508460,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-19T17:00:19Z",
+            "last_commit": "2026-09-20T17:28:55Z",
             "open_issues": 0,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1218,7 +1218,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2407,
+            "stars": 2408,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:18:04.344Z",
+    "last_updated": "2026-09-20T19:25:08.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
@@ -1309,7 +1309,7 @@
       "open_issues": 7,
       "owner": "barbeau",
       "repo": "awesome-gnss",
-      "stars": 601,
+      "stars": 602,
       "topics": [
         "awesome",
         "awesome-list",
