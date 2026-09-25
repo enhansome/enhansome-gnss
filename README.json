@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2411,
+            "stars": 2410,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -213,7 +213,7 @@
             "open_issues": 457,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3136,
+            "stars": 3138,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -230,7 +230,7 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T08:26:16Z",
+            "last_commit": "2026-09-24T20:36:31Z",
             "open_issues": 239,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
@@ -350,7 +350,7 @@
             "id": 290630876,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T17:54:32Z",
+            "last_commit": "2026-09-25T18:00:39Z",
             "open_issues": 4,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
@@ -716,8 +716,8 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T01:19:26Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-25T20:18:18Z",
+            "open_issues": 42,
             "owner": "manankharwar",
             "repo": "fusioncore",
             "stars": 367,
@@ -757,7 +757,7 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-22T07:56:52Z",
+            "last_commit": "2026-09-25T11:42:06Z",
             "open_issues": 2,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
@@ -1043,8 +1043,8 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-24T20:20:45Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-25T16:42:29Z",
+            "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
             "stars": 18,
@@ -1137,7 +1137,7 @@
             "id": 1256508460,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T18:14:48Z",
+            "last_commit": "2026-09-24T20:31:26Z",
             "open_issues": 0,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1218,7 +1218,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2411,
+            "stars": 2410,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1239,7 +1239,7 @@
             "open_issues": 1,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 610,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:27:05.214Z",
+    "last_updated": "2026-09-25T20:26:50.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
