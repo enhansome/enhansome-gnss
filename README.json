@@ -15,11 +15,11 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T15:54:08Z",
-            "open_issues": 113,
+            "last_commit": "2026-10-01T01:17:59Z",
+            "open_issues": 114,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2415,
+            "stars": 2414,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -61,7 +61,7 @@
             "open_issues": 65,
             "owner": "BasicAirData",
             "repo": "GPSLogger",
-            "stars": 505,
+            "stars": 506,
             "topics": [
               "accuracy",
               "altitude",
@@ -213,7 +213,7 @@
             "open_issues": 457,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3141,
+            "stars": 3143,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T18:26:07Z",
-            "open_issues": 239,
+            "last_commit": "2026-10-01T13:26:20Z",
+            "open_issues": 238,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2286,
+            "stars": 2287,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -648,7 +648,7 @@
             "open_issues": 19,
             "owner": "jtec",
             "repo": "prx",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "gnss",
               "rinex"
@@ -757,8 +757,8 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-30T20:47:34Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-01T15:20:08Z",
+            "open_issues": 2,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
             "stars": 224,
@@ -1043,7 +1043,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-30T12:43:12Z",
+            "last_commit": "2026-10-01T13:25:33Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1135,9 +1135,9 @@
             "description": "Open, validated, reproducible PNT-resilience simulator spanning the full positioning, navigation & timing stack — orbit, clocks, INS, GNSS, integrity, resilience, lunar/cislunar & deep-space nav — plus quantum-vs-classical models. Runs as a Rust lib/CLI, Python, in-browser (WASM), an MCP server / Claude Code plugin, and a JetBrains plugin.",
             "homepage": "https://kshana.dev",
             "id": 1256508460,
-            "language": "Rust",
+            "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-27T16:18:01Z",
+            "last_commit": "2026-10-01T18:27:05Z",
             "open_issues": 0,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1214,11 +1214,11 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T15:54:08Z",
-            "open_issues": 113,
+            "last_commit": "2026-10-01T01:17:59Z",
+            "open_issues": 114,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2415,
+            "stars": 2414,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1239,7 +1239,7 @@
             "open_issues": 1,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 612,
+            "stars": 613,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:24:28.640Z",
+    "last_updated": "2026-10-01T21:47:30.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
