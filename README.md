@@ -2,7 +2,7 @@
 
 ##### Community list of open-source Global Navigation Satellite System (GNSS) software and resources :satellite:
 
-Have something to add or change? Open a [pull request](https://github.com/barbeau/awesome-gnss/pulls) ⭐ 602 | 🐛 7 | 📅 2026-08-23 or [issue](https://github.com/barbeau/awesome-gnss/issues) ⭐ 602 | 🐛 7 | 📅 2026-08-23.
+Have something to add or change? Open a [pull request](https://github.com/barbeau/awesome-gnss/pulls) or [issue](https://github.com/barbeau/awesome-gnss/issues).
 
 *This is a community resource for informational use only - listing of a project/product does not imply endorsement.*
 
@@ -42,7 +42,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 ### Desktop tools (open-source)
 
 * **RTKLIB** ([Download](http://www.rtklib.com/), [Source code](https://github.com/tomojitakasu/RTKLIB) ⭐ 3,144 | 🐛 457 | 🌐 C | 📅 2024-05-28) - An Open Source Program Package for GNSS Positioning. Has a companion Android app [RTKGPS+](https://play.google.com/store/apps/details?id=gpsplus.rtkgps). Supports Windows.
-* **GNSS-SDR** ([Download](https://gnss-sdr.org/), [Source code](https://github.com/gnss-sdr/gnss-sdr) ⭐ 2,288 | 🐛 240 | 🌐 C++ | 📅 2026-10-02) - An open source GNSS software defined receiver. Supports Linux, Mac, and Windows.
+* **GNSS-SDR** ([Download](https://gnss-sdr.org/), [Source code](https://github.com/gnss-sdr/gnss-sdr) ⭐ 2,289 | 🐛 240 | 🌐 C++ | 📅 2026-10-02) - An open source GNSS software defined receiver. Supports Linux, Mac, and Windows.
 * **Google's GPS Measurement Tools suite** ([Download](https://github.com/google/gps-measurement-tools/releases) ⭐ 843 | 🐛 6 | 🌐 Java | 📅 2026-09-29, [Source code](https://insidegnss.com/gnss-analysis-tools-from-google/)) - Desktop companion app for GNSSLogger to visualize and analyze raw measurements. Supports Windows, Mac, and Linux.
 * **GraphGNSSLib** ([Source code](https://github.com/weisongwen/GraphGNSSLib) ⭐ 629 | 🐛 8 | 🌐 C | 📅 2022-12-29) - An Open-source Package for GNSS Positioning and Real-time Kinematic Using Factor Graph Optimization.
 * **GPSTk** ([Download](http://www.gpstk.org), [Source code](https://github.com/SGL-UT/GPSTk) ⚠️ Archived) - C++ open source library and a suite of applications for GPS processing problems.
@@ -88,7 +88,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 * [GeoRust - RINEX](https://github.com/georust/rinex) ⭐ 128 | 🐛 32 | 🌐 Rust | 📅 2026-09-10 - RINEX files parsing and generation as a Rust library. Python bindings are under development.
 * [GeoRust - SINEX](https://github.com/georust/rinex/tree/main/sinex) ⭐ 128 | 🐛 32 | 🌐 Rust | 📅 2026-09-10 - SINEX files parsing.
 * [GeoRust - SP3](https://github.com/georust/rinex/tree/main/sp3) ⭐ 128 | 🐛 32 | 🌐 Rust | 📅 2026-09-10 - SP3 Precise Orbits by IGS - files parsing and processing in Rust.
-* [gnss\_gpu](https://github.com/rsasaki0109/gnss_gpu) ⭐ 85 | 🐛 3 | 🌐 Python | 📅 2026-10-02 - GPU-accelerated GNSS positioning for dense urban areas, using CUDA particle filters with NLOS rejection based on ray tracing against 3D city models.
+* [gnss\_gpu](https://github.com/rsasaki0109/gnss_gpu) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - GPU-accelerated GNSS positioning for dense urban areas, using CUDA particle filters with NLOS rejection based on ray tracing against 3D city models.
 * [RTK - Rust](https://github.com/rtk-rs/gnss-rtk) ⭐ 80 | 🐛 21 | 🌐 Rust | 📅 2026-09-10 - Precise Positioning in Rust.
 * [ESP32-GPS](https://github.com/mrichar1/esp32-gps) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2026-07-18 - ESP32 GPS Controller, with support for USB Serial, Bluetooth, RTK Corrections, NTRIP Caster/Server/Client and ESP-Now forwarding.
 * [tightly-coupled-gnss-imu-fgo](https://github.com/inuex35/tightly-coupled-gnss-imu-fgo) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-09-05 - Tightly-coupled GNSS RTK + IMU on GTSAM factor graphs: double-differenced code/carrier with LAMBDA ambiguity resolution and fix-and-hold, IMU preintegration, and between-satellite single-differenced Doppler. Results are reproducible end-to-end on the open PPC-Dataset urban Tokyo drives.
@@ -204,4 +204,4 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
