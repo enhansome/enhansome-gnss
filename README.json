@@ -147,7 +147,7 @@
             "open_issues": 39,
             "owner": "aaronpk",
             "repo": "Overland-iOS",
-            "stars": 734,
+            "stars": 735,
             "topics": [
               "corelocation",
               "gps",
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T07:42:58Z",
-            "open_issues": 238,
+            "last_commit": "2026-10-04T16:54:26Z",
+            "open_issues": 234,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2290,
+            "stars": 2292,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -330,7 +330,7 @@
             "open_issues": 32,
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "gnss",
               "ppp"
@@ -716,11 +716,11 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T00:03:55Z",
-            "open_issues": 57,
+            "last_commit": "2026-10-04T00:34:34Z",
+            "open_issues": 58,
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "autonomous-robots",
               "autonomous-systems",
@@ -757,7 +757,7 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-03T17:02:45Z",
+            "last_commit": "2026-10-04T06:18:06Z",
             "open_issues": 2,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
@@ -872,11 +872,11 @@
             "id": 1196621813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T18:21:34Z",
+            "last_commit": "2026-10-04T16:26:26Z",
             "open_issues": 0,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 85,
+            "stars": 86,
             "topics": [
               "autonomous-driving",
               "cuda",
@@ -1043,7 +1043,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-03T11:45:39Z",
+            "last_commit": "2026-10-04T20:05:41Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1137,7 +1137,7 @@
             "id": 1256508460,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T19:00:29Z",
+            "last_commit": "2026-10-04T18:56:58Z",
             "open_issues": 0,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1239,7 +1239,7 @@
             "open_issues": 1,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 613,
+            "stars": 614,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:49:10.289Z",
+    "last_updated": "2026-10-04T20:08:44.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
