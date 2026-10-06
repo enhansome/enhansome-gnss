@@ -61,7 +61,7 @@
             "open_issues": 65,
             "owner": "BasicAirData",
             "repo": "GPSLogger",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "accuracy",
               "altitude",
@@ -147,7 +147,7 @@
             "open_issues": 39,
             "owner": "aaronpk",
             "repo": "Overland-iOS",
-            "stars": 735,
+            "stars": 736,
             "topics": [
               "corelocation",
               "gps",
@@ -231,7 +231,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T10:14:57Z",
-            "open_issues": 236,
+            "open_issues": 237,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
             "stars": 2295,
@@ -693,7 +693,7 @@
             "open_issues": 2,
             "owner": "Tinkerbug-Robotics",
             "repo": "TinkerRTKWiFiNetwork",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -720,7 +720,7 @@
             "open_issues": 53,
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "autonomous-robots",
               "autonomous-systems",
@@ -757,7 +757,7 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-04T06:18:06Z",
+            "last_commit": "2026-10-06T09:32:26Z",
             "open_issues": 2,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
@@ -872,7 +872,7 @@
             "id": 1196621813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T13:59:34Z",
+            "last_commit": "2026-10-06T09:16:11Z",
             "open_issues": 0,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
@@ -1043,7 +1043,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-05T14:49:30Z",
+            "last_commit": "2026-10-05T23:55:44Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:08:30.223Z",
+    "last_updated": "2026-10-06T10:40:56.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
