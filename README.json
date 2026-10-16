@@ -213,7 +213,7 @@
             "open_issues": 458,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3151,
+            "stars": 3153,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -234,7 +234,7 @@
             "open_issues": 242,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2302,
+            "stars": 2303,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -720,7 +720,7 @@
             "open_issues": 48,
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 379,
+            "stars": 378,
             "topics": [
               "autonomous-robots",
               "autonomous-systems",
@@ -872,11 +872,11 @@
             "id": 1196621813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T19:47:06Z",
+            "last_commit": "2026-10-15T23:23:38Z",
             "open_issues": 0,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "autonomous-driving",
               "cuda",
@@ -935,7 +935,7 @@
             "id": 1046335735,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-07-18T14:44:44Z",
+            "last_commit": "2026-10-16T16:53:29Z",
             "open_issues": 2,
             "owner": "mrichar1",
             "repo": "esp32-gps",
@@ -1043,7 +1043,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-15T11:38:15Z",
+            "last_commit": "2026-10-16T16:19:29Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1137,8 +1137,8 @@
             "id": 1256508460,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-15T15:33:22Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-16T19:07:58Z",
+            "open_issues": 3,
             "owner": "ashfordeOU",
             "repo": "kshana",
             "stars": 6,
@@ -1239,7 +1239,7 @@
             "open_issues": 1,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 620,
+            "stars": 621,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:18:41.536Z",
+    "last_updated": "2026-10-16T19:55:33.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
