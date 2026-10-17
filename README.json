@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2430,
+            "stars": 2429,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -176,7 +176,7 @@
             "open_issues": 79,
             "owner": "merlos",
             "repo": "iOS-Open-GPX-Tracker",
-            "stars": 722,
+            "stars": 723,
             "topics": [
               "gpx",
               "gpx-files",
@@ -210,7 +210,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2024-05-28T10:17:00Z",
-            "open_issues": 458,
+            "open_issues": 459,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
             "stars": 3153,
@@ -234,7 +234,7 @@
             "open_issues": 242,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2303,
+            "stars": 2304,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -716,11 +716,11 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T03:03:48Z",
+            "last_commit": "2026-10-17T18:20:01Z",
             "open_issues": 48,
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "autonomous-robots",
               "autonomous-systems",
@@ -876,7 +876,7 @@
             "open_issues": 0,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "autonomous-driving",
               "cuda",
@@ -1043,7 +1043,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-16T16:19:29Z",
+            "last_commit": "2026-10-17T10:53:07Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1135,10 +1135,10 @@
             "description": "Open, validated, reproducible PNT-resilience simulator spanning the full positioning, navigation & timing stack — orbit, clocks, INS, GNSS, integrity, resilience, lunar/cislunar & deep-space nav — plus quantum-vs-classical models. Runs as a Rust lib/CLI, Python, in-browser (WASM), an MCP server / Claude Code plugin, and a JetBrains plugin.",
             "homepage": "https://kshana.dev",
             "id": 1256508460,
-            "language": "HTML",
+            "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-16T19:07:58Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-17T19:19:22Z",
+            "open_issues": 1,
             "owner": "ashfordeOU",
             "repo": "kshana",
             "stars": 6,
@@ -1218,7 +1218,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2430,
+            "stars": 2429,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1236,10 +1236,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-15T13:05:09Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 621,
+            "stars": 622,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:55:33.014Z",
+    "last_updated": "2026-10-17T19:19:33.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
@@ -1309,7 +1309,7 @@
       "open_issues": 7,
       "owner": "barbeau",
       "repo": "awesome-gnss",
-      "stars": 609,
+      "stars": 610,
       "topics": [
         "awesome",
         "awesome-list",
