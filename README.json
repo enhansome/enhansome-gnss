@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2433,
+            "stars": 2434,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -40,7 +40,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 843,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -213,7 +213,7 @@
             "open_issues": 459,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3154,
+            "stars": 3155,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -231,10 +231,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-20T16:26:57Z",
-            "open_issues": 232,
+            "open_issues": 231,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2306,
+            "stars": 2308,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -267,7 +267,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 843,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -288,7 +288,7 @@
             "open_issues": 8,
             "owner": "weisongwen",
             "repo": "GraphGNSSLib",
-            "stars": 631,
+            "stars": 632,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -457,7 +457,7 @@
             "open_issues": 30,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "geodesy",
               "gnss",
@@ -644,8 +644,8 @@
             "id": 424319436,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T20:48:12Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-21T12:29:43Z",
+            "open_issues": 16,
             "owner": "jtec",
             "repo": "prx",
             "stars": 24,
@@ -757,11 +757,11 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-20T15:53:13Z",
+            "last_commit": "2026-10-21T18:18:03Z",
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -792,7 +792,7 @@
             "open_issues": 30,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "geodesy",
               "gnss",
@@ -820,7 +820,7 @@
             "open_issues": 30,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "geodesy",
               "gnss",
@@ -848,7 +848,7 @@
             "open_issues": 30,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "geodesy",
               "gnss",
@@ -872,7 +872,7 @@
             "id": 1196621813,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T07:04:52Z",
+            "last_commit": "2026-10-21T18:41:14Z",
             "open_issues": 0,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
@@ -1043,7 +1043,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-20T11:47:10Z",
+            "last_commit": "2026-10-21T11:58:57Z",
             "open_issues": 1,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1135,10 +1135,10 @@
             "description": "Open, validated, reproducible PNT-resilience simulator spanning the full positioning, navigation & timing stack — orbit, clocks, INS, GNSS, integrity, resilience, lunar/cislunar & deep-space nav — plus quantum-vs-classical models. Runs as a Rust lib/CLI, Python, in-browser (WASM), an MCP server / Claude Code plugin, and a JetBrains plugin.",
             "homepage": "https://kshana.dev",
             "id": 1256508460,
-            "language": "Rust",
+            "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-20T20:05:38Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-21T18:43:55Z",
+            "open_issues": 4,
             "owner": "ashfordeOU",
             "repo": "kshana",
             "stars": 6,
@@ -1218,7 +1218,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2433,
+            "stars": 2434,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1236,7 +1236,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-15T13:05:09Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
             "stars": 626,
@@ -1266,7 +1266,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 843,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1287,7 +1287,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 843,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:32:50.220Z",
+    "last_updated": "2026-10-21T20:35:37.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
