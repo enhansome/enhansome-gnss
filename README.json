@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2437,
+            "stars": 2439,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -213,7 +213,7 @@
             "open_issues": 459,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3154,
+            "stars": 3156,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -231,10 +231,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-20T16:26:57Z",
-            "open_issues": 231,
+            "open_issues": 232,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2311,
+            "stars": 2313,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -350,8 +350,8 @@
             "id": 290630876,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T18:45:37Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-24T20:56:05Z",
+            "open_issues": 4,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
             "stars": 222,
@@ -457,7 +457,7 @@
             "open_issues": 29,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 129,
+            "stars": 131,
             "topics": [
               "geodesy",
               "gnss",
@@ -716,7 +716,7 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T03:11:59Z",
+            "last_commit": "2026-10-25T15:43:52Z",
             "open_issues": 48,
             "owner": "manankharwar",
             "repo": "fusioncore",
@@ -757,11 +757,11 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-24T17:40:33Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-25T14:30:38Z",
+            "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -792,7 +792,7 @@
             "open_issues": 29,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 129,
+            "stars": 131,
             "topics": [
               "geodesy",
               "gnss",
@@ -820,7 +820,7 @@
             "open_issues": 29,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 129,
+            "stars": 131,
             "topics": [
               "geodesy",
               "gnss",
@@ -848,7 +848,7 @@
             "open_issues": 29,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 129,
+            "stars": 131,
             "topics": [
               "geodesy",
               "gnss",
@@ -912,7 +912,7 @@
             "open_issues": 21,
             "owner": "nav-solutions",
             "repo": "gnss-rtk",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "galileo",
               "geodesy",
@@ -1043,7 +1043,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-24T11:10:40Z",
+            "last_commit": "2026-10-25T11:39:47Z",
             "open_issues": 1,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1137,7 +1137,7 @@
             "id": 1256508460,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T19:22:17Z",
+            "last_commit": "2026-10-25T17:15:49Z",
             "open_issues": 4,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1218,7 +1218,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2437,
+            "stars": 2439,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1236,7 +1236,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-15T13:05:09Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
             "stars": 627,
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:27:52.515Z",
+    "last_updated": "2026-10-25T19:34:34.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
