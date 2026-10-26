@@ -15,11 +15,11 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T10:12:36Z",
+            "last_commit": "2026-10-26T02:33:51Z",
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2439,
+            "stars": 2440,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -40,7 +40,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 843,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -213,7 +213,7 @@
             "open_issues": 459,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3156,
+            "stars": 3157,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T16:26:57Z",
-            "open_issues": 232,
+            "last_commit": "2026-10-26T15:09:14Z",
+            "open_issues": 231,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2313,
+            "stars": 2315,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -267,7 +267,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 843,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -716,7 +716,7 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T15:43:52Z",
+            "last_commit": "2026-10-26T16:05:23Z",
             "open_issues": 48,
             "owner": "manankharwar",
             "repo": "fusioncore",
@@ -757,11 +757,11 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-25T14:30:38Z",
+            "last_commit": "2026-10-26T21:26:59Z",
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 231,
+            "stars": 238,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -876,7 +876,7 @@
             "open_issues": 0,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 90,
+            "stars": 92,
             "topics": [
               "autonomous-driving",
               "cuda",
@@ -1043,7 +1043,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-25T11:39:47Z",
+            "last_commit": "2026-10-26T13:13:17Z",
             "open_issues": 1,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1137,7 +1137,7 @@
             "id": 1256508460,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-25T17:15:49Z",
+            "last_commit": "2026-10-26T18:29:42Z",
             "open_issues": 4,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1214,11 +1214,11 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T10:12:36Z",
+            "last_commit": "2026-10-26T02:33:51Z",
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2439,
+            "stars": 2440,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1239,7 +1239,7 @@
             "open_issues": 2,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 627,
+            "stars": 629,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1266,7 +1266,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 843,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1287,7 +1287,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "gps-measurement-tools",
-            "stars": 843,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:34:34.653Z",
+    "last_updated": "2026-10-26T21:37:25.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
