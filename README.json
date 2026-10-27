@@ -16,10 +16,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T02:33:51Z",
-            "open_issues": 113,
+            "open_issues": 114,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2440,
+            "stars": 2441,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -213,7 +213,7 @@
             "open_issues": 459,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3157,
+            "stars": 3158,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T15:09:14Z",
-            "open_issues": 231,
+            "last_commit": "2026-10-27T13:08:25Z",
+            "open_issues": 227,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2315,
+            "stars": 2317,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -354,7 +354,7 @@
             "open_issues": 4,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
-            "stars": 222,
+            "stars": 223,
             "topics": [
               "gnss-ir",
               "gnssir",
@@ -716,8 +716,8 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T16:05:23Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-27T04:06:44Z",
+            "open_issues": 45,
             "owner": "manankharwar",
             "repo": "fusioncore",
             "stars": 382,
@@ -757,11 +757,11 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-26T21:26:59Z",
+            "last_commit": "2026-10-27T06:42:55Z",
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 238,
+            "stars": 242,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -876,7 +876,7 @@
             "open_issues": 0,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 92,
+            "stars": 93,
             "topics": [
               "autonomous-driving",
               "cuda",
@@ -1043,7 +1043,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-26T13:13:17Z",
+            "last_commit": "2026-10-27T12:21:52Z",
             "open_issues": 1,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1137,7 +1137,7 @@
             "id": 1256508460,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T18:29:42Z",
+            "last_commit": "2026-10-27T21:08:30Z",
             "open_issues": 4,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1215,10 +1215,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T02:33:51Z",
-            "open_issues": 113,
+            "open_issues": 114,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2440,
+            "stars": 2441,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1239,7 +1239,7 @@
             "open_issues": 2,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 629,
+            "stars": 630,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1297,7 +1297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:37:25.471Z",
+    "last_updated": "2026-10-27T21:16:38.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
