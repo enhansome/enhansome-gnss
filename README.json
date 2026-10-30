@@ -15,11 +15,11 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T02:33:51Z",
+            "last_commit": "2026-10-30T03:22:36Z",
             "open_issues": 115,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2440,
+            "stars": 2439,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -213,7 +213,7 @@
             "open_issues": 459,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3158,
+            "stars": 3159,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -383,7 +383,7 @@
             "open_issues": 14,
             "owner": "nlsfi",
             "repo": "FGI-GSRx",
-            "stars": 197,
+            "stars": 198,
             "topics": [
               "gnss",
               "gnss-receiver",
@@ -757,11 +757,11 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-29T19:41:18Z",
+            "last_commit": "2026-10-30T21:25:32Z",
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 245,
+            "stars": 244,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -1024,8 +1024,8 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-29T13:11:38Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-30T21:06:52Z",
+            "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
             "stars": 19,
@@ -1137,9 +1137,9 @@
             "description": "Open, validated, reproducible PNT-resilience simulator spanning the full positioning, navigation & timing stack — orbit, clocks, INS, GNSS, integrity, resilience, lunar/cislunar & deep-space nav — plus quantum-vs-classical models. Runs as a Rust lib/CLI, Python, in-browser (WASM), an MCP server / Claude Code plugin, and a JetBrains plugin.",
             "homepage": "https://kshana.dev",
             "id": 1256508460,
-            "language": "HTML",
+            "language": "Fluent",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T11:15:08Z",
+            "last_commit": "2026-10-30T20:02:28Z",
             "open_issues": 5,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1216,11 +1216,11 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T02:33:51Z",
+            "last_commit": "2026-10-30T03:22:36Z",
             "open_issues": 115,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2440,
+            "stars": 2439,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1299,7 +1299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:46:08.641Z",
+    "last_updated": "2026-10-30T21:28:09.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
@@ -1307,11 +1307,11 @@
       "id": 214236544,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-10-28T15:47:25Z",
+      "last_commit": "2026-10-30T19:03:53Z",
       "open_issues": 7,
       "owner": "barbeau",
       "repo": "awesome-gnss",
-      "stars": 612,
+      "stars": 613,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1323,7 +1323,7 @@
         "satellite"
       ]
     },
-    "original_repository_sha": "ccf9672f793e95c9b46a5c1396b104f0c0427813",
+    "original_repository_sha": "d8ad2717809ab90649d6cbec6b710b3c5e660622",
     "enhanced_repository": "enhansome/enhansome-gnss",
     "enhanced_repository_description": null,
     "title": "awesome-gnss with stars"
