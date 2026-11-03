@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2441,
+            "stars": 2444,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -147,7 +147,7 @@
             "open_issues": 14,
             "owner": "aaronpk",
             "repo": "Overland-iOS",
-            "stars": 744,
+            "stars": 745,
             "topics": [
               "corelocation",
               "gps",
@@ -330,7 +330,7 @@
             "open_issues": 35,
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
-            "stars": 354,
+            "stars": 358,
             "topics": [
               "gnss",
               "ppp"
@@ -354,7 +354,7 @@
             "open_issues": 4,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "gnss-ir",
               "gnssir",
@@ -433,7 +433,7 @@
             "open_issues": 2,
             "owner": "taroz",
             "repo": "ge-gnss-visibility",
-            "stars": 136,
+            "stars": 137,
             "topics": [
               "gnss",
               "googleearth"
@@ -579,7 +579,7 @@
             "open_issues": 0,
             "owner": "taroz",
             "repo": "ge-drive-visualizer",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "gnss",
               "googleearth",
@@ -757,7 +757,7 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-02T23:40:01Z",
+            "last_commit": "2026-11-03T03:36:56Z",
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
@@ -1024,7 +1024,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-02T16:05:03Z",
+            "last_commit": "2026-11-03T14:24:50Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1139,8 +1139,8 @@
             "id": 1256508460,
             "language": "Fluent",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-01T12:52:21Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-03T22:06:24Z",
+            "open_issues": 1,
             "owner": "ashfordeOU",
             "repo": "kshana",
             "stars": 7,
@@ -1220,7 +1220,7 @@
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2441,
+            "stars": 2444,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1299,7 +1299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:51:42.744Z",
+    "last_updated": "2026-11-03T22:16:44.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
