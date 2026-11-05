@@ -15,11 +15,11 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T18:52:30Z",
+            "last_commit": "2026-11-05T15:53:22Z",
             "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2446,
+            "stars": 2447,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -213,7 +213,7 @@
             "open_issues": 459,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3162,
+            "stars": 3164,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T09:02:09Z",
+            "last_commit": "2026-11-05T19:50:50Z",
             "open_issues": 226,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2323,
+            "stars": 2324,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -288,7 +288,7 @@
             "open_issues": 8,
             "owner": "weisongwen",
             "repo": "GraphGNSSLib",
-            "stars": 631,
+            "stars": 632,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -394,6 +394,30 @@
         },
         {
           "node_type": "item",
+          "title": "ge-gnss-visibility",
+          "description": "Generates virtual fisheye zenith images from Google Earth at arbitrary locations and automatically determines GNSS visibility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GNSS satellite visibility simulation from Google Earth",
+            "homepage": null,
+            "id": 827718191,
+            "language": "MATLAB",
+            "license": "MIT",
+            "last_commit": "2025-03-24T14:05:24Z",
+            "open_issues": 2,
+            "owner": "taroz",
+            "repo": "ge-gnss-visibility",
+            "stars": 138,
+            "topics": [
+              "gnss",
+              "googleearth"
+            ]
+          },
+          "first_seen": "2026-08-29T00:57:17.414Z"
+        },
+        {
+          "node_type": "item",
           "title": "gtsam_gnss",
           "description": "A set of custom factors and MATLAB wrappers that use GTSAM for GNSS processing.",
           "children": [],
@@ -413,30 +437,6 @@
               "fgo",
               "gnss",
               "gps"
-            ]
-          },
-          "first_seen": "2026-08-29T00:57:17.414Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ge-gnss-visibility",
-          "description": "Generates virtual fisheye zenith images from Google Earth at arbitrary locations and automatically determines GNSS visibility",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "GNSS satellite visibility simulation from Google Earth",
-            "homepage": null,
-            "id": 827718191,
-            "language": "MATLAB",
-            "license": "MIT",
-            "last_commit": "2025-03-24T14:05:24Z",
-            "open_issues": 2,
-            "owner": "taroz",
-            "repo": "ge-gnss-visibility",
-            "stars": 137,
-            "topics": [
-              "gnss",
-              "googleearth"
             ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -485,7 +485,7 @@
             "open_issues": 3,
             "owner": "taroz",
             "repo": "gsdc2023",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "fgo",
               "gnss",
@@ -534,7 +534,7 @@
             "open_issues": 2,
             "owner": "taroz",
             "repo": "MatRTKLIB",
-            "stars": 99,
+            "stars": 100,
             "topics": [
               "gnss",
               "gps"
@@ -757,8 +757,8 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-04T22:35:00Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-05T22:16:31Z",
+            "open_issues": 3,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
             "stars": 245,
@@ -876,7 +876,7 @@
             "open_issues": 0,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "autonomous-driving",
               "cuda",
@@ -1024,7 +1024,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-04T14:40:39Z",
+            "last_commit": "2026-11-05T14:47:47Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1216,11 +1216,11 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T18:52:30Z",
+            "last_commit": "2026-11-05T15:53:22Z",
             "open_issues": 112,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2446,
+            "stars": 2447,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1241,7 +1241,7 @@
             "open_issues": 0,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 632,
+            "stars": 633,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1299,7 +1299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:35:19.412Z",
+    "last_updated": "2026-11-05T22:39:28.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
