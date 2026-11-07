@@ -234,7 +234,7 @@
             "open_issues": 226,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2324,
+            "stars": 2325,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -288,8 +288,32 @@
             "open_issues": 8,
             "owner": "weisongwen",
             "repo": "GraphGNSSLib",
-            "stars": 632,
+            "stars": 633,
             "topics": []
+          },
+          "first_seen": "2026-08-29T00:57:17.414Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Ginan (Source code",
+          "description": ") - A processing package being developed by Geoscience Australia to provide real-time corrections to positioning data from the Global Navigation Satellite System (GNSS) constellations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Australian Government, through Positioning Australia (part of Geoscience Australia), is funding the design, development and operational service of a Global Navigation Satellite System (GNSS) position correction system - the Ginan service and toolkit. The application of the Ginan correction service by a GNSS device has the potential to increase positioning accuracy from meters to centimetres across Australia. The suite of software systems in this repository (the Ginan toolkit) will be used to create the service. It is available now under an open source licence. Ginan will give individuals and organisations no-cost access to the Ginan software and service as a public good.",
+            "homepage": "https://geoscienceaustralia.github.io/ginan/",
+            "id": 351286262,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-16T08:00:10Z",
+            "open_issues": 37,
+            "owner": "GeoscienceAustralia",
+            "repo": "ginan",
+            "stars": 360,
+            "topics": [
+              "gnss",
+              "ppp"
+            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -311,30 +335,6 @@
             "repo": "GPSTk",
             "stars": 360,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:57:17.414Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Ginan (Source code",
-          "description": ") - A processing package being developed by Geoscience Australia to provide real-time corrections to positioning data from the Global Navigation Satellite System (GNSS) constellations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Australian Government, through Positioning Australia (part of Geoscience Australia), is funding the design, development and operational service of a Global Navigation Satellite System (GNSS) position correction system - the Ginan service and toolkit. The application of the Ginan correction service by a GNSS device has the potential to increase positioning accuracy from meters to centimetres across Australia. The suite of software systems in this repository (the Ginan toolkit) will be used to create the service. It is available now under an open source licence. Ginan will give individuals and organisations no-cost access to the Ginan software and service as a public good.",
-            "homepage": "https://geoscienceaustralia.github.io/ginan/",
-            "id": 351286262,
-            "language": "C++",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-16T08:00:10Z",
-            "open_issues": 37,
-            "owner": "GeoscienceAustralia",
-            "repo": "ginan",
-            "stars": 359,
-            "topics": [
-              "gnss",
-              "ppp"
-            ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
         },
@@ -716,7 +716,7 @@
             "id": 1184507826,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T06:26:06Z",
+            "last_commit": "2026-11-07T06:47:35Z",
             "open_issues": 45,
             "owner": "manankharwar",
             "repo": "fusioncore",
@@ -757,11 +757,11 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-05T23:04:42Z",
+            "last_commit": "2026-11-07T16:50:57Z",
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -1024,7 +1024,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-06T14:22:28Z",
+            "last_commit": "2026-11-07T13:10:40Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1139,7 +1139,7 @@
             "id": 1256508460,
             "language": "Fluent",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T21:31:26Z",
+            "last_commit": "2026-11-07T20:37:45Z",
             "open_issues": 1,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1238,7 +1238,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-15T13:05:09Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
             "stars": 633,
@@ -1299,7 +1299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:03:28.335Z",
+    "last_updated": "2026-11-07T20:50:52.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
