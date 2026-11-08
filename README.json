@@ -16,7 +16,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T02:41:51Z",
-            "open_issues": 112,
+            "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
             "stars": 2449,
@@ -147,7 +147,7 @@
             "open_issues": 15,
             "owner": "aaronpk",
             "repo": "Overland-iOS",
-            "stars": 746,
+            "stars": 747,
             "topics": [
               "corelocation",
               "gps",
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T16:58:34Z",
+            "last_commit": "2026-11-08T12:48:29Z",
             "open_issues": 226,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2325,
+            "stars": 2327,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -457,7 +457,7 @@
             "open_issues": 29,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "geodesy",
               "gnss",
@@ -761,7 +761,7 @@
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 246,
+            "stars": 247,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -792,7 +792,7 @@
             "open_issues": 29,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "geodesy",
               "gnss",
@@ -820,7 +820,7 @@
             "open_issues": 29,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "geodesy",
               "gnss",
@@ -848,7 +848,7 @@
             "open_issues": 29,
             "owner": "nav-solutions",
             "repo": "rinex",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "geodesy",
               "gnss",
@@ -876,7 +876,7 @@
             "open_issues": 0,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "autonomous-driving",
               "cuda",
@@ -1024,7 +1024,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-07T13:10:40Z",
+            "last_commit": "2026-11-08T13:33:48Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1139,11 +1139,11 @@
             "id": 1256508460,
             "language": "Fluent",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-07T20:37:45Z",
+            "last_commit": "2026-11-08T21:03:17Z",
             "open_issues": 1,
             "owner": "ashfordeOU",
             "repo": "kshana",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "aerospace",
               "astrodynamics",
@@ -1217,7 +1217,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T02:41:51Z",
-            "open_issues": 112,
+            "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
             "stars": 2449,
@@ -1241,7 +1241,7 @@
             "open_issues": 1,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 633,
+            "stars": 634,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1299,7 +1299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:50:52.907Z",
+    "last_updated": "2026-11-08T21:05:46.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
