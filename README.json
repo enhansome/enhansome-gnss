@@ -15,7 +15,7 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T02:41:51Z",
+            "last_commit": "2026-11-09T02:00:03Z",
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
@@ -143,11 +143,11 @@
             "id": 13785086,
             "language": "Objective-C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T00:10:06Z",
+            "last_commit": "2026-11-09T17:35:35Z",
             "open_issues": 15,
             "owner": "aaronpk",
             "repo": "Overland-iOS",
-            "stars": 747,
+            "stars": 748,
             "topics": [
               "corelocation",
               "gps",
@@ -213,7 +213,7 @@
             "open_issues": 459,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3166,
+            "stars": 3167,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -230,11 +230,11 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-08T12:48:29Z",
+            "last_commit": "2026-11-09T14:42:49Z",
             "open_issues": 226,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2327,
+            "stars": 2328,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -309,7 +309,7 @@
             "open_issues": 37,
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "gnss",
               "ppp"
@@ -761,7 +761,7 @@
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -1024,7 +1024,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-08T13:33:48Z",
+            "last_commit": "2026-11-09T16:31:01Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1103,32 +1103,6 @@
         },
         {
           "node_type": "item",
-          "title": "giulioscattolin/google-gnss-logger",
-          "description": "A Java library that facilitates reading, writing and processing of sensor events and raw GNSS measurements encoded according to the Google's GNSS Logger application format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Java library that facilitates reading, writing and processing of sensor events and raw GNSS measurements encoded according to the Google's GNSS Logger application format.",
-            "homepage": null,
-            "id": 418867984,
-            "language": "Java",
-            "license": "MIT",
-            "last_commit": "2021-10-24T13:56:57Z",
-            "open_issues": 0,
-            "owner": "gscatto",
-            "repo": "google-gnss-logger",
-            "stars": 8,
-            "topics": [
-              "android",
-              "gnss",
-              "google",
-              "logger"
-            ]
-          },
-          "first_seen": "2026-08-29T00:57:17.414Z"
-        },
-        {
-          "node_type": "item",
           "title": "Kshana",
           "description": "Open, reproducible PNT-resilience simulator in Rust (with Python and WebAssembly bindings). SGP4/SDP4 orbits, IAU 2006/2000A reference frames, GNSS availability/DOP, GNSS/INS fusion, ARAIM/RAIM integrity, SBAS protection levels, and Allan deviations; SGP4 validated against all 666 AIAA 2006-6753 vectors. Includes RINEX/SP3/CCSDS interop and an in-browser playground at https://kshana.dev.",
           "children": [],
@@ -1139,11 +1113,11 @@
             "id": 1256508460,
             "language": "Fluent",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-08T21:03:17Z",
+            "last_commit": "2026-11-09T23:38:52Z",
             "open_issues": 1,
             "owner": "ashfordeOU",
             "repo": "kshana",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "aerospace",
               "astrodynamics",
@@ -1165,6 +1139,32 @@
               "vlbi",
               "wasm",
               "webassembly"
+            ]
+          },
+          "first_seen": "2026-08-29T00:57:17.414Z"
+        },
+        {
+          "node_type": "item",
+          "title": "giulioscattolin/google-gnss-logger",
+          "description": "A Java library that facilitates reading, writing and processing of sensor events and raw GNSS measurements encoded according to the Google's GNSS Logger application format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Java library that facilitates reading, writing and processing of sensor events and raw GNSS measurements encoded according to the Google's GNSS Logger application format.",
+            "homepage": null,
+            "id": 418867984,
+            "language": "Java",
+            "license": "MIT",
+            "last_commit": "2021-10-24T13:56:57Z",
+            "open_issues": 0,
+            "owner": "gscatto",
+            "repo": "google-gnss-logger",
+            "stars": 8,
+            "topics": [
+              "android",
+              "gnss",
+              "google",
+              "logger"
             ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1216,7 +1216,7 @@
             "id": 5510421,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T02:41:51Z",
+            "last_commit": "2026-11-09T02:00:03Z",
             "open_issues": 113,
             "owner": "barbeau",
             "repo": "gpstest",
@@ -1241,7 +1241,7 @@
             "open_issues": 1,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 634,
+            "stars": 633,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1299,7 +1299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:05:46.053Z",
+    "last_updated": "2026-11-10T00:40:05.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
