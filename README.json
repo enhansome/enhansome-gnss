@@ -176,7 +176,7 @@
             "open_issues": 79,
             "owner": "merlos",
             "repo": "iOS-Open-GPX-Tracker",
-            "stars": 720,
+            "stars": 721,
             "topics": [
               "gpx",
               "gpx-files",
@@ -213,7 +213,7 @@
             "open_issues": 459,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3167,
+            "stars": 3169,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -234,7 +234,7 @@
             "open_issues": 225,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2329,
+            "stars": 2330,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -288,7 +288,7 @@
             "open_issues": 8,
             "owner": "weisongwen",
             "repo": "GraphGNSSLib",
-            "stars": 633,
+            "stars": 634,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -306,10 +306,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T08:00:10Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
-            "stars": 361,
+            "stars": 363,
             "topics": [
               "gnss",
               "ppp"
@@ -354,7 +354,7 @@
             "open_issues": 4,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
-            "stars": 225,
+            "stars": 226,
             "topics": [
               "gnss-ir",
               "gnssir",
@@ -757,11 +757,11 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-10T12:14:07Z",
+            "last_commit": "2026-11-11T01:55:59Z",
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 253,
+            "stars": 260,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -1024,7 +1024,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-10T15:00:36Z",
+            "last_commit": "2026-11-11T14:32:12Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1113,7 +1113,7 @@
             "id": 1256508460,
             "language": "Fluent",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-10T22:02:58Z",
+            "last_commit": "2026-11-11T23:19:42Z",
             "open_issues": 1,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1299,7 +1299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:20:01.363Z",
+    "last_updated": "2026-11-11T23:27:01.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
