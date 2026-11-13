@@ -19,7 +19,7 @@
             "open_issues": 114,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2451,
+            "stars": 2453,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -213,7 +213,7 @@
             "open_issues": 459,
             "owner": "tomojitakasu",
             "repo": "RTKLIB",
-            "stars": 3170,
+            "stars": 3171,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -230,7 +230,7 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T09:26:56Z",
+            "last_commit": "2026-11-13T17:10:15Z",
             "open_issues": 230,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
@@ -351,7 +351,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-24T20:56:05Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
             "stars": 227,
@@ -513,7 +513,7 @@
             "open_issues": 7,
             "owner": "rokubun",
             "repo": "android_rinex",
-            "stars": 104,
+            "stars": 105,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -720,7 +720,7 @@
             "open_issues": 45,
             "owner": "manankharwar",
             "repo": "fusioncore",
-            "stars": 384,
+            "stars": 385,
             "topics": [
               "autonomous-robots",
               "autonomous-systems",
@@ -757,8 +757,8 @@
             "id": 1050336885,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-11T01:55:59Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-13T16:05:05Z",
+            "open_issues": 2,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
             "stars": 260,
@@ -966,8 +966,8 @@
             "id": 1234333775,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-12T14:11:20Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-13T18:31:22Z",
+            "open_issues": 1,
             "owner": "inuex35",
             "repo": "tightly-coupled-gnss-imu-fgo",
             "stars": 21,
@@ -1024,7 +1024,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-12T15:23:07Z",
+            "last_commit": "2026-11-13T14:43:29Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1113,7 +1113,7 @@
             "id": 1256508460,
             "language": "Fluent",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-12T21:16:46Z",
+            "last_commit": "2026-11-13T20:18:09Z",
             "open_issues": 1,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1220,7 +1220,7 @@
             "open_issues": 114,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2451,
+            "stars": 2453,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1299,7 +1299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:41:46.810Z",
+    "last_updated": "2026-11-13T22:34:07.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
