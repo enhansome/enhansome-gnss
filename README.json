@@ -19,7 +19,7 @@
             "open_issues": 114,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2454,
+            "stars": 2455,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -176,7 +176,7 @@
             "open_issues": 79,
             "owner": "merlos",
             "repo": "iOS-Open-GPX-Tracker",
-            "stars": 721,
+            "stars": 722,
             "topics": [
               "gpx",
               "gpx-files",
@@ -288,7 +288,7 @@
             "open_issues": 8,
             "owner": "weisongwen",
             "repo": "GraphGNSSLib",
-            "stars": 634,
+            "stars": 635,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -309,7 +309,7 @@
             "open_issues": 38,
             "owner": "GeoscienceAustralia",
             "repo": "ginan",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "gnss",
               "ppp"
@@ -350,7 +350,7 @@
             "id": 290630876,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T20:56:05Z",
+            "last_commit": "2026-11-15T19:45:27Z",
             "open_issues": 5,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
@@ -485,7 +485,7 @@
             "open_issues": 3,
             "owner": "taroz",
             "repo": "gsdc2023",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "fgo",
               "gnss",
@@ -644,8 +644,8 @@
             "id": 424319436,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T15:40:59Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-14T22:14:58Z",
+            "open_issues": 17,
             "owner": "navforge",
             "repo": "prx",
             "stars": 24,
@@ -966,7 +966,7 @@
             "id": 1234333775,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-13T23:11:16Z",
+            "last_commit": "2026-11-15T01:09:05Z",
             "open_issues": 0,
             "owner": "inuex35",
             "repo": "tightly-coupled-gnss-imu-fgo",
@@ -1024,7 +1024,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-14T13:39:23Z",
+            "last_commit": "2026-11-15T14:02:53Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1113,7 +1113,7 @@
             "id": 1256508460,
             "language": "Fluent",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-14T19:19:14Z",
+            "last_commit": "2026-11-15T21:31:40Z",
             "open_issues": 2,
             "owner": "ashfordeOU",
             "repo": "kshana",
@@ -1220,7 +1220,7 @@
             "open_issues": 114,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2454,
+            "stars": 2455,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1241,7 +1241,7 @@
             "open_issues": 1,
             "owner": "IPNL-POLYU",
             "repo": "UrbanNavDataset",
-            "stars": 636,
+            "stars": 637,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1299,7 +1299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:25:08.896Z",
+    "last_updated": "2026-11-15T21:43:51.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
@@ -1311,7 +1311,7 @@
       "open_issues": 7,
       "owner": "barbeau",
       "repo": "awesome-gnss",
-      "stars": 613,
+      "stars": 614,
       "topics": [
         "awesome",
         "awesome-list",
