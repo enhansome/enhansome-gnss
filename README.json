@@ -176,7 +176,7 @@
             "open_issues": 79,
             "owner": "merlos",
             "repo": "iOS-Open-GPX-Tracker",
-            "stars": 723,
+            "stars": 724,
             "topics": [
               "gpx",
               "gpx-files",
@@ -230,8 +230,8 @@
             "id": 18740094,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T17:41:43Z",
-            "open_issues": 227,
+            "last_commit": "2026-11-25T11:44:06Z",
+            "open_issues": 228,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
             "stars": 2332,
@@ -350,7 +350,7 @@
             "id": 290630876,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-23T01:06:39Z",
+            "last_commit": "2026-11-25T23:34:15Z",
             "open_issues": 7,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
@@ -383,36 +383,11 @@
             "open_issues": 14,
             "owner": "nlsfi",
             "repo": "FGI-GSRx",
-            "stars": 201,
+            "stars": 202,
             "topics": [
               "gnss",
               "gnss-receiver",
               "gnss-sdr"
-            ]
-          },
-          "first_seen": "2026-08-29T00:57:17.414Z"
-        },
-        {
-          "node_type": "item",
-          "title": "gtsam_gnss",
-          "description": "A set of custom factors and MATLAB wrappers that use GTSAM for GNSS processing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Factor graph optimization library for GNSS positining",
-            "homepage": null,
-            "id": 895462026,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2026-05-23T13:55:51Z",
-            "open_issues": 3,
-            "owner": "taroz",
-            "repo": "gtsam_gnss",
-            "stars": 139,
-            "topics": [
-              "fgo",
-              "gnss",
-              "gps"
             ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -437,6 +412,31 @@
             "topics": [
               "gnss",
               "googleearth"
+            ]
+          },
+          "first_seen": "2026-08-29T00:57:17.414Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gtsam_gnss",
+          "description": "A set of custom factors and MATLAB wrappers that use GTSAM for GNSS processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Factor graph optimization library for GNSS positining",
+            "homepage": null,
+            "id": 895462026,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-05-23T13:55:51Z",
+            "open_issues": 3,
+            "owner": "taroz",
+            "repo": "gtsam_gnss",
+            "stars": 138,
+            "topics": [
+              "fgo",
+              "gnss",
+              "gps"
             ]
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -485,7 +485,7 @@
             "open_issues": 3,
             "owner": "taroz",
             "repo": "gsdc2023",
-            "stars": 117,
+            "stars": 116,
             "topics": [
               "fgo",
               "gnss",
@@ -644,7 +644,7 @@
             "id": 424319436,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-23T21:13:18Z",
+            "last_commit": "2026-11-25T10:27:26Z",
             "open_issues": 17,
             "owner": "navforge",
             "repo": "prx",
@@ -876,7 +876,7 @@
             "open_issues": 0,
             "owner": "rsasaki0109",
             "repo": "gnss_gpu",
-            "stars": 97,
+            "stars": 96,
             "topics": [
               "autonomous-driving",
               "cuda",
@@ -966,11 +966,11 @@
             "id": 1234333775,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-24T12:00:54Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-25T15:25:36Z",
+            "open_issues": 1,
             "owner": "inuex35",
             "repo": "tightly-coupled-gnss-imu-fgo",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "gnss",
               "graph-optimization",
@@ -1024,7 +1024,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-24T17:52:29Z",
+            "last_commit": "2026-11-26T00:09:03Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1117,7 +1117,7 @@
             "open_issues": 2,
             "owner": "ashfordeOU",
             "repo": "kshana",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "aerospace",
               "astrodynamics",
@@ -1299,7 +1299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:23:29.214Z",
+    "last_updated": "2026-11-26T00:58:31.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
@@ -1311,7 +1311,7 @@
       "open_issues": 7,
       "owner": "barbeau",
       "repo": "awesome-gnss",
-      "stars": 615,
+      "stars": 614,
       "topics": [
         "awesome",
         "awesome-list",
