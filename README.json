@@ -19,7 +19,7 @@
             "open_issues": 115,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2463,
+            "stars": 2465,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -147,7 +147,7 @@
             "open_issues": 15,
             "owner": "aaronpk",
             "repo": "Overland-iOS",
-            "stars": 752,
+            "stars": 753,
             "topics": [
               "corelocation",
               "gps",
@@ -231,10 +231,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-11-25T11:44:06Z",
-            "open_issues": 228,
+            "open_issues": 230,
             "owner": "gnss-sdr",
             "repo": "gnss-sdr",
-            "stars": 2332,
+            "stars": 2333,
             "topics": [
               "c-plus-plus",
               "galileo",
@@ -350,7 +350,7 @@
             "id": 290630876,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T23:34:15Z",
+            "last_commit": "2026-11-26T01:39:08Z",
             "open_issues": 7,
             "owner": "kristinemlarson",
             "repo": "gnssrefl",
@@ -485,7 +485,7 @@
             "open_issues": 3,
             "owner": "taroz",
             "repo": "gsdc2023",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "fgo",
               "gnss",
@@ -761,7 +761,7 @@
             "open_issues": 1,
             "owner": "rsasaki0109",
             "repo": "gnssplusplus-library",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "c-plus-plus",
               "gnss",
@@ -910,7 +910,7 @@
             "id": 711832369,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-23T17:32:31Z",
+            "last_commit": "2026-11-26T14:35:54Z",
             "open_issues": 21,
             "owner": "nav-solutions",
             "repo": "gnss-rtk",
@@ -966,8 +966,8 @@
             "id": 1234333775,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-25T15:25:36Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-26T16:22:44Z",
+            "open_issues": 0,
             "owner": "inuex35",
             "repo": "tightly-coupled-gnss-imu-fgo",
             "stars": 22,
@@ -1024,7 +1024,7 @@
             "id": 1284766396,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-26T00:09:03Z",
+            "last_commit": "2026-11-26T16:59:11Z",
             "open_issues": 0,
             "owner": "neilberkman",
             "repo": "sidereon",
@@ -1220,7 +1220,7 @@
             "open_issues": 115,
             "owner": "barbeau",
             "repo": "gpstest",
-            "stars": 2463,
+            "stars": 2465,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:17.414Z"
@@ -1299,7 +1299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:58:31.021Z",
+    "last_updated": "2026-11-27T00:59:38.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community list of open-source GNSS software and resources :satellite:",
